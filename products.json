@@ -1145,7 +1145,7 @@
     },
     {
         "id": 143,
-        "product": "CABO FLEX  1,00MM P/M AZUL",
+        "product": "FIO (CABO FLEXIVEL)  1,00MM P/M AZUL",
         "brand": "MEGAMAX",
         "price": 1.0,
         "stock": 0.0,
@@ -1153,7 +1153,7 @@
     },
     {
         "id": 144,
-        "product": "CABO FLEX  1,00MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL)  1,00MM P/M PRETO",
         "brand": "MEGAMAX",
         "price": 1.0,
         "stock": 0.0,
@@ -1161,7 +1161,7 @@
     },
     {
         "id": 145,
-        "product": "CABO FLEX  1,00MM P/M VERDE",
+        "product": "FIO (CABO FLEXIVEL)  1,00MM P/M VERDE",
         "brand": "MEGAMAX",
         "price": 1.0,
         "stock": 17.0,
@@ -1169,7 +1169,7 @@
     },
     {
         "id": 146,
-        "product": "CABO FLEX  1,50MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL)  1,50MM P/M PRETO",
         "brand": "MEGATRON",
         "price": 2.5,
         "stock": 386.0,
@@ -1177,7 +1177,7 @@
     },
     {
         "id": 147,
-        "product": "CABO FLEX  1,5MM P/M AMARELO",
+        "product": "FIO (CABO FLEXIVEL)  1,5MM P/M AMARELO",
         "brand": "MEGAMAX",
         "price": 2.5,
         "stock": 0.0,
@@ -1185,7 +1185,7 @@
     },
     {
         "id": 148,
-        "product": "CABO FLEX  1,5MM P/M AZUL",
+        "product": "FIO (CABO FLEXIVEL)  1,5MM P/M AZUL",
         "brand": "MEGAMAX",
         "price": 2.5,
         "stock": 367.7,
@@ -1193,7 +1193,7 @@
     },
     {
         "id": 149,
-        "product": "CABO FLEX  1,5MM P/M BRANCO",
+        "product": "FIO (CABO FLEXIVEL)  1,5MM P/M BRANCO",
         "brand": "MEGATRON",
         "price": 2.5,
         "stock": 813.5,
@@ -1201,7 +1201,7 @@
     },
     {
         "id": 150,
-        "product": "CABO FLEX  1,5MM P/M CINZA",
+        "product": "FIO (CABO FLEXIVEL)  1,5MM P/M CINZA",
         "brand": "MEGATRON",
         "price": 2.5,
         "stock": 24.0,
@@ -1209,7 +1209,7 @@
     },
     {
         "id": 151,
-        "product": "CABO FLEX  1,5MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL)  1,5MM P/M PRETO",
         "brand": "MEGATRON",
         "price": 2.5,
         "stock": 388.0,
@@ -1217,7 +1217,7 @@
     },
     {
         "id": 152,
-        "product": "CABO FLEX  1,5MM P/M VERDE",
+        "product": "FIO (CABO FLEXIVEL)  1,5MM P/M VERDE",
         "brand": "MEGAMAX",
         "price": 2.5,
         "stock": 0.0,
@@ -1225,7 +1225,7 @@
     },
     {
         "id": 153,
-        "product": "CABO FLEX  1,5MM P/M VERMELHO",
+        "product": "FIO (CABO FLEXIVEL)  1,5MM P/M VERMELHO",
         "brand": "MEGATRON",
         "price": 2.5,
         "stock": 24.0,
@@ -1233,7 +1233,7 @@
     },
     {
         "id": 154,
-        "product": "CABO FLEX  2,5MM P/M AMARELO",
+        "product": "FIO (CABO FLEXIVEL)  2,5MM P/M AMARELO",
         "brand": "MEGAMAX",
         "price": 3.5,
         "stock": 87.6,
@@ -1241,7 +1241,7 @@
     },
     {
         "id": 155,
-        "product": "CABO FLEX  2,5MM P/M AZUL",
+        "product": "FIO (CABO FLEXIVEL)  2,5MM P/M AZUL",
         "brand": "MEGAMAX",
         "price": 3.5,
         "stock": 2386.7,
@@ -1249,7 +1249,7 @@
     },
     {
         "id": 156,
-        "product": "CABO FLEX  2,5MM P/M BRANCO",
+        "product": "FIO (CABO FLEXIVEL)  2,5MM P/M BRANCO",
         "brand": "MEGATRON",
         "price": 3.5,
         "stock": 551.88,
@@ -1257,7 +1257,7 @@
     },
     {
         "id": 157,
-        "product": "CABO FLEX  2,5MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL)  2,5MM P/M PRETO",
         "brand": "MEGAMAX",
         "price": 3.5,
         "stock": 0.0,
@@ -1265,7 +1265,7 @@
     },
     {
         "id": 158,
-        "product": "CABO FLEX  2,5MM P/M VERDE",
+        "product": "FIO (CABO FLEXIVEL)  2,5MM P/M VERDE",
         "brand": "MEGAMAX",
         "price": 3.5,
         "stock": 0.0,
@@ -1273,7 +1273,7 @@
     },
     {
         "id": 159,
-        "product": "CABO FLEX  2.5MM P/M VERMELHO",
+        "product": "FIO (CABO FLEXIVEL)  2.5MM P/M VERMELHO",
         "brand": "MEGAMAX",
         "price": 3.5,
         "stock": 0.0,
@@ -1281,7 +1281,7 @@
     },
     {
         "id": 160,
-        "product": "CABO FLEX  4,00MM P/M AMARELO",
+        "product": "FIO (CABO FLEXIVEL)  4,00MM P/M AMARELO",
         "brand": "MEGAMAX",
         "price": 4.5,
         "stock": 2.5,
@@ -1289,7 +1289,7 @@
     },
     {
         "id": 161,
-        "product": "CABO FLEX  4,00MM P/M AZUL",
+        "product": "FIO (CABO FLEXIVEL)  4,00MM P/M AZUL",
         "brand": "MEGAMAX",
         "price": 4.5,
         "stock": 0.0,
@@ -1297,7 +1297,7 @@
     },
     {
         "id": 162,
-        "product": "CABO FLEX  4,00MM P/M BRANCO",
+        "product": "FIO (CABO FLEXIVEL)  4,00MM P/M BRANCO",
         "brand": "MEGATRON",
         "price": 4.5,
         "stock": 1513.7,
@@ -1305,7 +1305,7 @@
     },
     {
         "id": 163,
-        "product": "CABO FLEX  4,00MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL)  4,00MM P/M PRETO",
         "brand": "MEGAMAX",
         "price": 4.5,
         "stock": 0.0,
@@ -1313,7 +1313,7 @@
     },
     {
         "id": 164,
-        "product": "CABO FLEX  4,00MM P/M VERDE",
+        "product": "FIO (CABO FLEXIVEL)  4,00MM P/M VERDE",
         "brand": "MEGATRON",
         "price": 4.5,
         "stock": 400.1,
@@ -1321,7 +1321,7 @@
     },
     {
         "id": 165,
-        "product": "CABO FLEX  4,00MM P/M VERMELHO",
+        "product": "FIO (CABO FLEXIVEL)  4,00MM P/M VERMELHO",
         "brand": "MEGATRON",
         "price": 4.5,
         "stock": 117.9,
@@ -1329,7 +1329,7 @@
     },
     {
         "id": 166,
-        "product": "CABO FLEX  6,00MM P/M AZUL",
+        "product": "FIO (CABO FLEXIVEL)  6,00MM P/M AZUL",
         "brand": "MEGAMAX",
         "price": 6.5,
         "stock": 98.5,
@@ -1337,7 +1337,7 @@
     },
     {
         "id": 167,
-        "product": "CABO FLEX  6,00MM P/M BRANCO",
+        "product": "FIO (CABO FLEXIVEL)  6,00MM P/M BRANCO",
         "brand": "MEGATRON",
         "price": 6.5,
         "stock": 6.0,
@@ -1345,7 +1345,7 @@
     },
     {
         "id": 168,
-        "product": "CABO FLEX  6,00MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL)  6,00MM P/M PRETO",
         "brand": "MEGAMAX",
         "price": 6.5,
         "stock": 13.5,
@@ -1353,7 +1353,7 @@
     },
     {
         "id": 169,
-        "product": "CABO FLEX  6,00MM P/M VERDE",
+        "product": "FIO (CABO FLEXIVEL)  6,00MM P/M VERDE",
         "brand": "MEGATRON",
         "price": 6.5,
         "stock": 32.5,
@@ -1361,7 +1361,7 @@
     },
     {
         "id": 170,
-        "product": "CABO FLEX  6,00MM P/M VERMELHO",
+        "product": "FIO (CABO FLEXIVEL)  6,00MM P/M VERMELHO",
         "brand": "MEGATRON",
         "price": 6.5,
         "stock": 58.0,
@@ -1369,7 +1369,7 @@
     },
     {
         "id": 171,
-        "product": "CABO FLEX  ANTENA COAXIAL 59 P/M",
+        "product": "FIO (CABO FLEXIVEL)  ANTENA COAXIAL 59 P/M",
         "brand": "MEGATRON",
         "price": 1.8,
         "stock": 158.9,
@@ -1377,7 +1377,7 @@
     },
     {
         "id": 172,
-        "product": "CABO FLEX 10,00MM P/M AZUL",
+        "product": "FIO (CABO FLEXIVEL) 10,00MM P/M AZUL",
         "brand": "MEGAMAX",
         "price": 9.9,
         "stock": 78.5,
@@ -1385,7 +1385,7 @@
     },
     {
         "id": 173,
-        "product": "CABO FLEX 10,00MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL) 10,00MM P/M PRETO",
         "brand": "MEGAMAX",
         "price": 9.5,
         "stock": 7.25,
@@ -1393,7 +1393,7 @@
     },
     {
         "id": 174,
-        "product": "CABO FLEX 10,00MM P/M VERDE",
+        "product": "FIO (CABO FLEXIVEL) 10,00MM P/M VERDE",
         "brand": "MEGAMAX",
         "price": 9.5,
         "stock": 92.5,
@@ -1401,7 +1401,7 @@
     },
     {
         "id": 175,
-        "product": "CABO FLEX 16,00MM P/M PRETO",
+        "product": "FIO (CABO FLEXIVEL) 16,00MM P/M PRETO",
         "brand": "MAEGAMAX",
         "price": 22.0,
         "stock": 83.5,
@@ -1409,7 +1409,7 @@
     },
     {
         "id": 176,
-        "product": "CABO FLEX 35MM P/M AZUL",
+        "product": "FIO (CABO FLEXIVEL) 35MM P/M AZUL",
         "brand": "MEGATRON",
         "price": 36.0,
         "stock": 56.0,
@@ -1417,7 +1417,7 @@
     },
     {
         "id": 177,
-        "product": "CABO FLEX PAR. 2X1,00MM P/M BR",
+        "product": "FIO (CABO FLEXIVEL) PAR. 2X1,00MM P/M BR",
         "brand": "MEGATRON",
         "price": 2.99,
         "stock": 176.6,
@@ -1425,7 +1425,7 @@
     },
     {
         "id": 178,
-        "product": "CABO FLEX PAR. 2X1,5MM P/M BR",
+        "product": "FIO (CABO FLEXIVEL) PAR. 2X1,5MM P/M BR",
         "brand": "MEGAMAX",
         "price": 3.99,
         "stock": 7.0,
@@ -1433,7 +1433,7 @@
     },
     {
         "id": 179,
-        "product": "CABO FLEX PAR. 2X2,5MM P/M BR",
+        "product": "FIO (CABO FLEXIVEL) PAR. 2X2,5MM P/M BR",
         "brand": "MEGAMAX",
         "price": 4.5,
         "stock": 0.0,
@@ -1441,7 +1441,7 @@
     },
     {
         "id": 180,
-        "product": "CABO FLEX PAR. 2X4,00MM P/M BR",
+        "product": "FIO (CABO FLEXIVEL) PAR. 2X4,00MM P/M BR",
         "brand": "MEGAMAX",
         "price": 8.99,
         "stock": 35.0,
@@ -1449,7 +1449,7 @@
     },
     {
         "id": 181,
-        "product": "CABO FLEX SOM 18X075X P/M",
+        "product": "FIO (CABO FLEXIVEL) SOM 18X075X P/M",
         "brand": "FOX LUX",
         "price": 1.89,
         "stock": 118.7,
@@ -1457,7 +1457,7 @@
     },
     {
         "id": 182,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M AM",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M AM",
         "brand": "MAX PRIME",
         "price": 119.0,
         "stock": 1.0,
@@ -1465,7 +1465,7 @@
     },
     {
         "id": 183,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M AM",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M AM",
         "brand": "CONDUFIRE",
         "price": 125.0,
         "stock": 0.0,
@@ -1473,7 +1473,7 @@
     },
     {
         "id": 184,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M AZUL",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M AZUL",
         "brand": "CONDUFIRE",
         "price": 125.0,
         "stock": 0.0,
@@ -1481,7 +1481,7 @@
     },
     {
         "id": 185,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M AZUL",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M AZUL",
         "brand": "MEGATRON",
         "price": 125.0,
         "stock": 0.0,
@@ -1489,7 +1489,7 @@
     },
     {
         "id": 186,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M BR",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M BR",
         "brand": "CONDUFIRE",
         "price": 125.0,
         "stock": 0.0,
@@ -1497,7 +1497,7 @@
     },
     {
         "id": 187,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M BRANCO",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M BRANCO",
         "brand": "MEGATRON",
         "price": 125.0,
         "stock": 0.0,
@@ -1505,7 +1505,7 @@
     },
     {
         "id": 188,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M PRETO",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M PRETO",
         "brand": "CONDUFIRE",
         "price": 125.0,
         "stock": 0.0,
@@ -1513,7 +1513,7 @@
     },
     {
         "id": 189,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M PRETO",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M PRETO",
         "brand": "MEGAMAX",
         "price": 125.0,
         "stock": 0.0,
@@ -1521,7 +1521,7 @@
     },
     {
         "id": 190,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M VERD.",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M VERD.",
         "brand": "MAXPRIME",
         "price": 119.0,
         "stock": 2.0,
@@ -1529,7 +1529,7 @@
     },
     {
         "id": 191,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M VERDE",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M VERDE",
         "brand": "MEGATRON",
         "price": 125.0,
         "stock": 1.0,
@@ -1537,7 +1537,7 @@
     },
     {
         "id": 192,
-        "product": "CABO FLEXIVEL 1,50MM RL 100M VERM.",
+        "product": "FIO (CABO FLEXIVEL) 1,50MM RL 100M VERM.",
         "brand": "MEGATRON",
         "price": 125.0,
         "stock": 0.0,
@@ -1545,7 +1545,7 @@
     },
     {
         "id": 193,
-        "product": "CABO FLEXIVEL 1,5MM RL 100M  VERM.",
+        "product": "FIO (CABO FLEXIVEL) 1,5MM RL 100M  VERM.",
         "brand": "CONDUFIRE",
         "price": 125.0,
         "stock": 0.0,
@@ -1553,7 +1553,7 @@
     },
     {
         "id": 194,
-        "product": "CABO FLEXIVEL 2,50MM RL 100M AM",
+        "product": "FIO (CABO FLEXIVEL) 2,50MM RL 100M AM",
         "brand": "MAX PRIME",
         "price": 189.0,
         "stock": 5.0,
@@ -1561,7 +1561,7 @@
     },
     {
         "id": 195,
-        "product": "CABO FLEXIVEL 2,50MM RL 100M AZUL",
+        "product": "FIO (CABO FLEXIVEL) 2,50MM RL 100M AZUL",
         "brand": "MAX PRIME",
         "price": 189.0,
         "stock": 0.0,
@@ -1569,7 +1569,7 @@
     },
     {
         "id": 196,
-        "product": "CABO FLEXIVEL 2,50MM RL 100M BR",
+        "product": "FIO (CABO FLEXIVEL) 2,50MM RL 100M BR",
         "brand": "MAX PRIME",
         "price": 189.0,
         "stock": 1.0,
@@ -1577,7 +1577,7 @@
     },
     {
         "id": 197,
-        "product": "CABO FLEXIVEL 2,50MM RL 100M PRETO",
+        "product": "FIO (CABO FLEXIVEL) 2,50MM RL 100M PRETO",
         "brand": "MAX PRIME",
         "price": 189.0,
         "stock": 7.0,
@@ -1585,7 +1585,7 @@
     },
     {
         "id": 198,
-        "product": "CABO FLEXIVEL 2,50MM RL 100M VERDE",
+        "product": "FIO (CABO FLEXIVEL) 2,50MM RL 100M VERDE",
         "brand": "MAX PRIME",
         "price": 189.0,
         "stock": 0.0,
@@ -1593,7 +1593,7 @@
     },
     {
         "id": 199,
-        "product": "CABO FLEXIVEL 2,50MM RL 100M VERM.",
+        "product": "FIO (CABO FLEXIVEL) 2,50MM RL 100M VERM.",
         "brand": "MAX PRIME",
         "price": 189.0,
         "stock": 8.0,
@@ -1601,7 +1601,7 @@
     },
     {
         "id": 200,
-        "product": "CABO FLEXIVEL 4,00MM RL 100M AZUL",
+        "product": "FIO (CABO FLEXIVEL) 4,00MM RL 100M AZUL",
         "brand": "MAX PRIME",
         "price": 235.0,
         "stock": 3.0,
@@ -1609,7 +1609,7 @@
     },
     {
         "id": 201,
-        "product": "CABO FLEXIVEL 4,00MM RL 100M BRANCO",
+        "product": "FIO (CABO FLEXIVEL) 4,00MM RL 100M BRANCO",
         "brand": "MAX PRIME",
         "price": 235.0,
         "stock": 3.0,
@@ -1617,7 +1617,7 @@
     },
     {
         "id": 202,
-        "product": "CABO FLEXIVEL 4,00MM RL 100M PRETO",
+        "product": "FIO (CABO FLEXIVEL) 4,00MM RL 100M PRETO",
         "brand": "MAX PRIME",
         "price": 235.0,
         "stock": 5.0,
@@ -1625,7 +1625,7 @@
     },
     {
         "id": 203,
-        "product": "CABO FLEXIVEL 4,00MM RL 100M VERDE",
+        "product": "FIO (CABO FLEXIVEL) 4,00MM RL 100M VERDE",
         "brand": "MAX PRIME",
         "price": 235.0,
         "stock": 1.0,
@@ -1633,7 +1633,7 @@
     },
     {
         "id": 204,
-        "product": "CABO FLEXIVEL 4,00MM RL 100M VERM.",
+        "product": "FIO (CABO FLEXIVEL) 4,00MM RL 100M VERM.",
         "brand": "MAX PRIME",
         "price": 235.0,
         "stock": 0.0,
@@ -1641,7 +1641,7 @@
     },
     {
         "id": 205,
-        "product": "CABO FLEXIVEL 4,00MM RL 100M VERMELHO",
+        "product": "FIO (CABO FLEXIVEL) 4,00MM RL 100M VERMELHO",
         "brand": "MEGATRON",
         "price": 235.0,
         "stock": 0.0,
@@ -1649,7 +1649,7 @@
     },
     {
         "id": 206,
-        "product": "CABO FLEXIVEL 6,00MM RL 100M  AZUL",
+        "product": "FIO (CABO FLEXIVEL) 6,00MM RL 100M  AZUL",
         "brand": "MAX PRIME",
         "price": 419.0,
         "stock": 1.0,
@@ -1657,7 +1657,7 @@
     },
     {
         "id": 207,
-        "product": "CABO FLEXIVEL 6,00MM RL 100M PRETO",
+        "product": "FIO (CABO FLEXIVEL) 6,00MM RL 100M PRETO",
         "brand": "MAX PRIME",
         "price": 419.0,
         "stock": 0.0,
@@ -1665,7 +1665,7 @@
     },
     {
         "id": 208,
-        "product": "CABO FLEXIVEL 6,00MM RL 100M VERDE",
+        "product": "FIO (CABO FLEXIVEL) 6,00MM RL 100M VERDE",
         "brand": "MAX PRIME",
         "price": 419.0,
         "stock": 2.0,
@@ -1673,7 +1673,7 @@
     },
     {
         "id": 209,
-        "product": "CABO FLEXIVEL 6,00MM RL 100M VERMELHO",
+        "product": "FIO (CABO FLEXIVEL) 6,00MM RL 100M VERMELHO",
         "brand": "MAX PRIME",
         "price": 419.0,
         "stock": 0.0,
@@ -2737,7 +2737,7 @@
     },
     {
         "id": 342,
-        "product": "DUCHA FAME 220X6800 SUPER DUCHA",
+        "product": "CHUVEIRO (DUCHA) FAME 220X6800 SUPER DUCHA",
         "brand": "FAME",
         "price": 69.9,
         "stock": 13.0,
@@ -2745,7 +2745,7 @@
     },
     {
         "id": 343,
-        "product": "DUCHA FAME KIBANHO 6800X220 4T",
+        "product": "CHUVEIRO (DUCHA) FAME KIBANHO 6800X220 4T",
         "brand": "FAME",
         "price": 68.9,
         "stock": 20.0,
@@ -2753,7 +2753,7 @@
     },
     {
         "id": 344,
-        "product": "DUCHA HIDRA GORD 4T 127X5450 W",
+        "product": "CHUVEIRO (DUCHA) HIDRA GORD 4T 127X5450 W",
         "brand": "HIDRA",
         "price": 59.0,
         "stock": 0.0,
@@ -2761,7 +2761,7 @@
     },
     {
         "id": 345,
-        "product": "DUCHA HIDRA GORD 4T220X5400V",
+        "product": "CHUVEIRO (DUCHA) HIDRA GORD 4T220X5400V",
         "brand": "HIDRA",
         "price": 49.99,
         "stock": 0.0,
@@ -2769,7 +2769,7 @@
     },
     {
         "id": 346,
-        "product": "DUCHA HIDRA SS 220X5200W",
+        "product": "CHUVEIRO (DUCHA) HIDRA SS 220X5200W",
         "brand": "HIDRA",
         "price": 49.0,
         "stock": 2.0,
@@ -2777,7 +2777,7 @@
     },
     {
         "id": 347,
-        "product": "DUCHA LORENZ 220X7500V ADVANCED",
+        "product": "CHUVEIRO (DUCHA) LORENZ 220X7500V ADVANCED",
         "brand": "LORENZETTI",
         "price": 149.0,
         "stock": 3.0,
@@ -2785,7 +2785,7 @@
     },
     {
         "id": 348,
-        "product": "DUCHA LORENZ 220X7500V ADVANCED TURBO",
+        "product": "CHUVEIRO (DUCHA) LORENZ 220X7500V ADVANCED TURBO",
         "brand": "LORENZETTI",
         "price": 249.0,
         "stock": 1.0,
@@ -2793,7 +2793,7 @@
     },
     {
         "id": 349,
-        "product": "DUCHA LORENZ 5500X220 MAXI BANHO C/C",
+        "product": "CHUVEIRO (DUCHA) LORENZ 5500X220 MAXI BANHO C/C",
         "brand": "LORENZETTI",
         "price": 79.0,
         "stock": 4.0,
@@ -2801,7 +2801,7 @@
     },
     {
         "id": 350,
-        "product": "DUCHA LORENZ 550X220 BELO BANH BR",
+        "product": "CHUVEIRO (DUCHA) LORENZ 550X220 BELO BANH BR",
         "brand": "LORENZETTI",
         "price": 79.0,
         "stock": 2.0,
@@ -2809,7 +2809,7 @@
     },
     {
         "id": 351,
-        "product": "DUCHA LORENZ 7500V220W TOP JET",
+        "product": "CHUVEIRO (DUCHA) LORENZ 7500V220W TOP JET",
         "brand": "LORENZETTI",
         "price": 119.0,
         "stock": 3.0,
@@ -2817,7 +2817,7 @@
     },
     {
         "id": 352,
-        "product": "DUCHA LORENZ MAXI 220X5500",
+        "product": "CHUVEIRO (DUCHA) LORENZ MAXI 220X5500",
         "brand": "LORENZETTI",
         "price": 59.0,
         "stock": 2.0,
@@ -2825,7 +2825,7 @@
     },
     {
         "id": 353,
-        "product": "DUCHA LORENZ. 220X6800VW4T BELA",
+        "product": "CHUVEIRO (DUCHA) LORENZ. 220X6800VW4T BELA",
         "brand": "LORENZETTI",
         "price": 69.0,
         "stock": 27.0,
@@ -2833,7 +2833,7 @@
     },
     {
         "id": 354,
-        "product": "DUCHA LORENZ. 220X7500W DUO SHOWER",
+        "product": "CHUVEIRO (DUCHA) LORENZ. 220X7500W DUO SHOWER",
         "brand": "LORENZETTI",
         "price": 249.0,
         "stock": 1.0,
@@ -2841,7 +2841,7 @@
     },
     {
         "id": 355,
-        "product": "DUCHA LORENZ.220X7500W FUTURA",
+        "product": "CHUVEIRO (DUCHA) LORENZ.220X7500W FUTURA",
         "brand": "LORENZETTI",
         "price": 119.0,
         "stock": 1.0,
@@ -2849,7 +2849,7 @@
     },
     {
         "id": 356,
-        "product": "DUCHA SINTEX 127X550W TOPBANHO",
+        "product": "CHUVEIRO (DUCHA) SINTEX 127X550W TOPBANHO",
         "brand": "SINTEX",
         "price": 59.99,
         "stock": 0.0,
@@ -2857,7 +2857,7 @@
     },
     {
         "id": 357,
-        "product": "DUCHA SINTEX 5500X220V",
+        "product": "CHUVEIRO (DUCHA) SINTEX 5500X220V",
         "brand": "SINTEX",
         "price": 34.99,
         "stock": 0.0,
@@ -2953,7 +2953,7 @@
     },
     {
         "id": 369,
-        "product": "ELETRODUTO CORRUG 1'' 10M REF",
+        "product": "CONDUÍTE 1'' 10M REF",
         "brand": "ADTEX",
         "price": 26.0,
         "stock": 0.0,
@@ -2961,7 +2961,7 @@
     },
     {
         "id": 370,
-        "product": "ELETRODUTO CORRUG 1'' 25M REF",
+        "product": "CONDUÍTE 1'' 25M REF",
         "brand": "ADTEX",
         "price": 69.0,
         "stock": 7.0,
@@ -2969,7 +2969,7 @@
     },
     {
         "id": 371,
-        "product": "ELETRODUTO CORRUG 3/4 P/MT PRETO",
+        "product": "CONDUÍTE 3/4 P/MT PRETO",
         "brand": "IBIRÁ",
         "price": 6.0,
         "stock": 0.0,
@@ -2977,7 +2977,7 @@
     },
     {
         "id": 372,
-        "product": "ELETRODUTO CORRUG 3/4 RL 10M REF",
+        "product": "CONDUÍTE 3/4 RL 10M REF",
         "brand": "ADTEX",
         "price": 19.0,
         "stock": 3.0,
@@ -2985,7 +2985,7 @@
     },
     {
         "id": 373,
-        "product": "ELETRODUTO CORRUG 3/4 RL 15M REF",
+        "product": "CONDUÍTE 3/4 RL 15M REF",
         "brand": "ADTEX",
         "price": 28.0,
         "stock": 0.0,
@@ -2993,7 +2993,7 @@
     },
     {
         "id": 374,
-        "product": "ELETRODUTO CORRUG 3/4 RL 25M REF",
+        "product": "CONDUÍTE 3/4 RL 25M REF",
         "brand": "ADTEX",
         "price": 49.0,
         "stock": 5.0,
@@ -3001,7 +3001,7 @@
     },
     {
         "id": 375,
-        "product": "ELETRODUTO CORRUG 3/4 RL 25MT",
+        "product": "CONDUÍTE 3/4 RL 25MT",
         "brand": "DELPLAST",
         "price": 28.0,
         "stock": 17.0,
@@ -3009,7 +3009,7 @@
     },
     {
         "id": 376,
-        "product": "ELETRODUTO CORRUG 3/4 RL 50MT REF",
+        "product": "CONDUÍTE 3/4 RL 50MT REF",
         "brand": "ADTEX",
         "price": 95.0,
         "stock": 14.0,
@@ -3017,7 +3017,7 @@
     },
     {
         "id": 377,
-        "product": "ELETRODUTO CORRUG 3/4'' RL 50M LARANJA",
+        "product": "CONDUÍTE 3/4'' RL 50M LARANJA",
         "brand": "PLASTILIT",
         "price": 149.0,
         "stock": 2.0,
@@ -15505,7 +15505,7 @@
     },
     {
         "id": 1938,
-        "product": "TABUA DE PASSAR DOMINIQUE",
+        "product": "SARRAFO (TÁBUA) DE PASSAR DOMINIQUE",
         "brand": "MOR",
         "price": 50.0,
         "stock": 0.0,
@@ -17313,7 +17313,7 @@
     },
     {
         "id": 2164,
-        "product": "DUCHA HIGIENICA CROMADA",
+        "product": "CHUVEIRO (DUCHA) HIGIENICA CROMADA",
         "brand": "HIGIBAN",
         "price": 59.0,
         "stock": 2.0,
@@ -19529,7 +19529,7 @@
     },
     {
         "id": 2441,
-        "product": "TÁBUA CARNE 33X20 PEQ.",
+        "product": "SARRAFO (TÁBUA) CARNE 33X20 PEQ.",
         "brand": "POLYFIT",
         "price": 9.5,
         "stock": 3.0,
@@ -20433,7 +20433,7 @@
     },
     {
         "id": 2554,
-        "product": "TUBO PVC ESG  40MM P/M LUMA",
+        "product": "CANO (TUBO) PVC ESG  40MM P/M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 6.0,
         "stock": 20.5,
@@ -20441,7 +20441,7 @@
     },
     {
         "id": 2555,
-        "product": "TUBO PVC ESG  40MM P/M MULTILITI",
+        "product": "CANO (TUBO) PVC ESG  40MM P/M MULTILITI",
         "brand": "MULTILIT",
         "price": 8.5,
         "stock": 10.8,
@@ -20449,7 +20449,7 @@
     },
     {
         "id": 2556,
-        "product": "TUBO PVC ESG  50MM P/M LUMA",
+        "product": "CANO (TUBO) PVC ESG  50MM P/M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 6.99,
         "stock": 2.0,
@@ -20457,7 +20457,7 @@
     },
     {
         "id": 2557,
-        "product": "TUBO PVC ESG  50MM P/M MULTILIT",
+        "product": "CANO (TUBO) PVC ESG  50MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 12.9,
         "stock": 22.05,
@@ -20465,7 +20465,7 @@
     },
     {
         "id": 2558,
-        "product": "TUBO PVC ESG  75MM P/M LUMA",
+        "product": "CANO (TUBO) PVC ESG  75MM P/M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 8.99,
         "stock": 19.05,
@@ -20473,7 +20473,7 @@
     },
     {
         "id": 2559,
-        "product": "TUBO PVC ESG  75MM P/M MULTILIT",
+        "product": "CANO (TUBO) PVC ESG  75MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 17.9,
         "stock": 11.63,
@@ -20481,7 +20481,7 @@
     },
     {
         "id": 2560,
-        "product": "TUBO PVC ESG 100MM P/M",
+        "product": "CANO (TUBO) PVC ESG 100MM P/M",
         "brand": "MULTILIT",
         "price": 18.0,
         "stock": 26.83,
@@ -20489,7 +20489,7 @@
     },
     {
         "id": 2561,
-        "product": "TUBO PVC ESG 100MM P/M LUMA",
+        "product": "CANO (TUBO) PVC ESG 100MM P/M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 9.98,
         "stock": 32.35,
@@ -20497,7 +20497,7 @@
     },
     {
         "id": 2562,
-        "product": "TUBO PVC ESG 150MM P/M MULTILIT",
+        "product": "CANO (TUBO) PVC ESG 150MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 48.0,
         "stock": 7.5,
@@ -20505,7 +20505,7 @@
     },
     {
         "id": 2563,
-        "product": "TUBO PVC ESG BR  40X6M LUMA",
+        "product": "CANO (TUBO) PVC ESG BR  40X6M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 24.5,
         "stock": 15.0,
@@ -20513,7 +20513,7 @@
     },
     {
         "id": 2564,
-        "product": "TUBO PVC ESG BR  40X6M MULTILT",
+        "product": "CANO (TUBO) PVC ESG BR  40X6M MULTILT",
         "brand": "MULTILIT",
         "price": 39.8,
         "stock": 32.0,
@@ -20521,7 +20521,7 @@
     },
     {
         "id": 2565,
-        "product": "TUBO PVC ESG BR  50X6M LUMA",
+        "product": "CANO (TUBO) PVC ESG BR  50X6M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 29.0,
         "stock": 13.0,
@@ -20529,7 +20529,7 @@
     },
     {
         "id": 2566,
-        "product": "TUBO PVC ESG BR  50X6M MULTILIT",
+        "product": "CANO (TUBO) PVC ESG BR  50X6M MULTILIT",
         "brand": "MULTILIT",
         "price": 63.9,
         "stock": 37.0,
@@ -20537,7 +20537,7 @@
     },
     {
         "id": 2567,
-        "product": "TUBO PVC ESG BR  75X6M LUMA",
+        "product": "CANO (TUBO) PVC ESG BR  75X6M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 44.9,
         "stock": 6.0,
@@ -20545,7 +20545,7 @@
     },
     {
         "id": 2568,
-        "product": "TUBO PVC ESG BR  75X6M MULTILIT",
+        "product": "CANO (TUBO) PVC ESG BR  75X6M MULTILIT",
         "brand": "MULTILIT",
         "price": 94.8,
         "stock": 31.0,
@@ -20553,7 +20553,7 @@
     },
     {
         "id": 2569,
-        "product": "TUBO PVC ESG BR 100X6M LUMA",
+        "product": "CANO (TUBO) PVC ESG BR 100X6M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 45.8,
         "stock": 11.0,
@@ -20561,7 +20561,7 @@
     },
     {
         "id": 2570,
-        "product": "TUBO PVC ESG BR 100X6M MULTILIT",
+        "product": "CANO (TUBO) PVC ESG BR 100X6M MULTILIT",
         "brand": "MULTILIT",
         "price": 96.0,
         "stock": 49.0,
@@ -20569,7 +20569,7 @@
     },
     {
         "id": 2571,
-        "product": "TUBO PVC ESG BR 150X6M MULTILIT",
+        "product": "CANO (TUBO) PVC ESG BR 150X6M MULTILIT",
         "brand": "MULTILIT",
         "price": 259.0,
         "stock": 4.0,
@@ -20577,7 +20577,7 @@
     },
     {
         "id": 2572,
-        "product": "TUBO PVC SOLD 20MM P/M",
+        "product": "CANO (TUBO) PVC SOLD 20MM P/M",
         "brand": "MULTILITI",
         "price": 4.8,
         "stock": 13.5,
@@ -20585,7 +20585,7 @@
     },
     {
         "id": 2573,
-        "product": "TUBO PVC SOLD 25MM P/M MULTILIT",
+        "product": "CANO (TUBO) PVC SOLD 25MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 4.8,
         "stock": 59.99,
@@ -20593,7 +20593,7 @@
     },
     {
         "id": 2574,
-        "product": "TUBO PVC SOLD 32MM P/M",
+        "product": "CANO (TUBO) PVC SOLD 32MM P/M",
         "brand": "MULTILIT",
         "price": 7.99,
         "stock": 12.5,
@@ -20601,7 +20601,7 @@
     },
     {
         "id": 2575,
-        "product": "TUBO PVC SOLD 50MM P/M MULTILIT",
+        "product": "CANO (TUBO) PVC SOLD 50MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 21.5,
         "stock": 8.53,
@@ -20609,7 +20609,7 @@
     },
     {
         "id": 2576,
-        "product": "TUBO PVC SOLD BR 20X6M",
+        "product": "CANO (TUBO) PVC SOLD BR 20X6M",
         "brand": "MULTILIT",
         "price": 19.8,
         "stock": 5.0,
@@ -20617,7 +20617,7 @@
     },
     {
         "id": 2577,
-        "product": "TUBO PVC SOLD BR 25X6M",
+        "product": "CANO (TUBO) PVC SOLD BR 25X6M",
         "brand": "MULTILIT",
         "price": 23.9,
         "stock": 295.0,
@@ -20625,7 +20625,7 @@
     },
     {
         "id": 2578,
-        "product": "TUBO PVC SOLD BR 32X6M",
+        "product": "CANO (TUBO) PVC SOLD BR 32X6M",
         "brand": "MULTILIT",
         "price": 48.0,
         "stock": 10.0,
@@ -20633,7 +20633,7 @@
     },
     {
         "id": 2579,
-        "product": "TUBO PVC SOLD BR 50X6M MULTILIT",
+        "product": "CANO (TUBO) PVC SOLD BR 50X6M MULTILIT",
         "brand": "MULTILIT",
         "price": 98.0,
         "stock": 28.0,
@@ -21801,7 +21801,7 @@
     },
     {
         "id": 2725,
-        "product": "TABUA 2,5X05CM 1,00M CED/TAUARI",
+        "product": "SARRAFO (TÁBUA) 2,5X05CM 1,00M CED/TAUARI",
         "brand": "TAUARI",
         "price": 4.9,
         "stock": 0.0,
@@ -21809,7 +21809,7 @@
     },
     {
         "id": 2726,
-        "product": "TABUA 2,5X05CM 3,00M CED/TAUARI",
+        "product": "SARRAFO (TÁBUA) 2,5X05CM 3,00M CED/TAUARI",
         "brand": "TAUARI",
         "price": 13.9,
         "stock": 144.0,
@@ -21817,7 +21817,7 @@
     },
     {
         "id": 2727,
-        "product": "TABUA 2,5X10CM 1,00M CED/TAUARI",
+        "product": "SARRAFO (TÁBUA) 2,5X10CM 1,00M CED/TAUARI",
         "brand": "TAUARI",
         "price": 5.0,
         "stock": 0.0,
@@ -21825,7 +21825,7 @@
     },
     {
         "id": 2728,
-        "product": "TABUA 2,5X10CM 3,00M CED/TAUARI",
+        "product": "SARRAFO (TÁBUA) 2,5X10CM 3,00M CED/TAUARI",
         "brand": "TAUARI",
         "price": 15.0,
         "stock": 0.0,
@@ -21833,7 +21833,7 @@
     },
     {
         "id": 2729,
-        "product": "TABUA 2,5X10CM 4,00M CED/TAUARI",
+        "product": "SARRAFO (TÁBUA) 2,5X10CM 4,00M CED/TAUARI",
         "brand": "TAUARI",
         "price": 20.0,
         "stock": 0.0,
@@ -21841,7 +21841,7 @@
     },
     {
         "id": 2730,
-        "product": "TABUA 2,5X10CM 4,50M CED/TAUARI",
+        "product": "SARRAFO (TÁBUA) 2,5X10CM 4,50M CED/TAUARI",
         "brand": "TAUARI",
         "price": 22.5,
         "stock": 0.0,
@@ -21849,7 +21849,7 @@
     },
     {
         "id": 2731,
-        "product": "TABUA PINUS 05CMX3,00M",
+        "product": "SARRAFO (TÁBUA) PINUS 05CMX3,00M",
         "brand": "PINUS",
         "price": 4.9,
         "stock": 46.0,
@@ -21857,7 +21857,7 @@
     },
     {
         "id": 2732,
-        "product": "TABUA PINUS 07CMX3,00M",
+        "product": "SARRAFO (TÁBUA) PINUS 07CMX3,00M",
         "brand": "PINUS",
         "price": 6.9,
         "stock": 88.0,
@@ -21865,7 +21865,7 @@
     },
     {
         "id": 2733,
-        "product": "TABUA PINUS 10CMX3,00M",
+        "product": "SARRAFO (TÁBUA) PINUS 10CMX3,00M",
         "brand": "PINUS",
         "price": 8.9,
         "stock": 27.0,
@@ -21873,7 +21873,7 @@
     },
     {
         "id": 2734,
-        "product": "TABUA PINUS 15CMX3,00M",
+        "product": "SARRAFO (TÁBUA) PINUS 15CMX3,00M",
         "brand": "PINUS",
         "price": 13.9,
         "stock": 59.0,
@@ -21881,7 +21881,7 @@
     },
     {
         "id": 2735,
-        "product": "TABUA PINUS 20CMX3,00M",
+        "product": "SARRAFO (TÁBUA) PINUS 20CMX3,00M",
         "brand": "PINUS",
         "price": 17.9,
         "stock": 196.0,
@@ -21889,7 +21889,7 @@
     },
     {
         "id": 2736,
-        "product": "TABUA PINUS 25CMX3,00M",
+        "product": "SARRAFO (TÁBUA) PINUS 25CMX3,00M",
         "brand": "PINUS",
         "price": 19.8,
         "stock": 10.0,
@@ -21897,7 +21897,7 @@
     },
     {
         "id": 2737,
-        "product": "TABUA PINUS 30CMX3,00M",
+        "product": "SARRAFO (TÁBUA) PINUS 30CMX3,00M",
         "brand": "PINUS",
         "price": 29.8,
         "stock": 0.0,
@@ -23217,7 +23217,7 @@
     },
     {
         "id": 2902,
-        "product": "CIMENTOCOLA 20KG AC I CINZA",
+        "product": "ARGAMASSA (CIMENTOCOLA) 20KG AC I CINZA",
         "brand": "QUARTIZOLIT",
         "price": 13.9,
         "stock": 47.0,
@@ -23225,7 +23225,7 @@
     },
     {
         "id": 2903,
-        "product": "CIMENTOCOLA 20KG AC I CINZA",
+        "product": "ARGAMASSA (CIMENTOCOLA) 20KG AC I CINZA",
         "brand": "DIRECIONAL",
         "price": 10.9,
         "stock": 154.0,
@@ -23233,7 +23233,7 @@
     },
     {
         "id": 2904,
-        "product": "CIMENTOCOLA 20KG AC II BRANCA",
+        "product": "ARGAMASSA (CIMENTOCOLA) 20KG AC II BRANCA",
         "brand": "DIRECIONAL",
         "price": 32.9,
         "stock": 10.0,
@@ -23241,7 +23241,7 @@
     },
     {
         "id": 2905,
-        "product": "CIMENTOCOLA 20KG AC II CINZA",
+        "product": "ARGAMASSA (CIMENTOCOLA) 20KG AC II CINZA",
         "brand": "DIRECIONAL",
         "price": 24.9,
         "stock": 57.0,
@@ -23649,7 +23649,7 @@
     },
     {
         "id": 2956,
-        "product": "ELETRODUTO CORRUG. 50MM 1.¹/² PRETO",
+        "product": "CONDUÍTE 50MM 1.¹/² PRETO",
         "brand": "APOLOPLAST",
         "price": 8.0,
         "stock": 46.5,
@@ -29025,7 +29025,7 @@
     },
     {
         "id": 3628,
-        "product": "CIMENTOCOLA 5KG",
+        "product": "ARGAMASSA (CIMENTOCOLA) 5KG",
         "brand": "DIRECIONAL",
         "price": 6.9,
         "stock": 0.0,
@@ -32273,7 +32273,7 @@
     },
     {
         "id": 4034,
-        "product": "TABUA DE PASSAR TB03",
+        "product": "SARRAFO (TÁBUA) DE PASSAR TB03",
         "brand": "CANAL",
         "price": 75.0,
         "stock": 1.0,
@@ -32281,7 +32281,7 @@
     },
     {
         "id": 4035,
-        "product": "TABUA DE PASSAR TB05",
+        "product": "SARRAFO (TÁBUA) DE PASSAR TB05",
         "brand": "CANAL",
         "price": 95.0,
         "stock": 0.0,
