@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id": 0,
         "product": "BOMBA FLITS EXPORT",
@@ -28,7 +28,7 @@
         "product": "DESINFETANTE CREOLINHAL 900ML",
         "brand": "CREO",
         "price": 14.99,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -36,7 +36,7 @@
         "product": "INIBIDEX USO VETERINARIO",
         "brand": "INIBIDEX",
         "price": 4.99,
-        "stock": 9.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -60,7 +60,7 @@
         "product": "ISCA MATA RATOS",
         "brand": "STRAIK",
         "price": 2.5,
-        "stock": 16.0,
+        "stock": 15.0,
         "quantity": 0
     },
     {
@@ -68,7 +68,7 @@
         "product": "MATA BICHEIRAS 500ML",
         "brand": "FORT DODGE",
         "price": 7.99,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -76,7 +76,7 @@
         "product": "MATA CUPIM INCOLOR 900ML",
         "brand": "JIMO",
         "price": 38.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -212,7 +212,7 @@
         "product": "BOTA BICO AÇO COURO Nº 40",
         "brand": "CRIVAL",
         "price": 59.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -356,7 +356,7 @@
         "product": "BOTA BORRACHA Nº 45 PR AM",
         "brand": "PEGA FORTE",
         "price": 39.0,
-        "stock": 0.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -428,7 +428,7 @@
         "product": "BOTA RELAX COURO Nº 43",
         "brand": "CRIVAL",
         "price": 45.9,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -524,7 +524,7 @@
         "product": "NUGGET LÍQUIDO P/CALÇADO",
         "brand": "WASSINGTON",
         "price": 14.99,
-        "stock": 9.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -1324,7 +1324,7 @@
         "product": "FIO (CABO FLEXIVEL)  4,00MM P/M VERMELHO",
         "brand": "MEGATRON",
         "price": 4.5,
-        "stock": 117.9,
+        "stock": 87.9,
         "quantity": 0
     },
     {
@@ -1356,7 +1356,7 @@
         "product": "FIO (CABO FLEXIVEL)  6,00MM P/M VERDE",
         "brand": "MEGATRON",
         "price": 6.5,
-        "stock": 32.5,
+        "stock": 27.5,
         "quantity": 0
     },
     {
@@ -1380,7 +1380,7 @@
         "product": "FIO (CABO FLEXIVEL) 10,00MM P/M AZUL",
         "brand": "MEGAMAX",
         "price": 9.9,
-        "stock": 78.5,
+        "stock": 77.3,
         "quantity": 0
     },
     {
@@ -1420,7 +1420,7 @@
         "product": "FIO (CABO FLEXIVEL) PAR. 2X1,00MM P/M BR",
         "brand": "MEGATRON",
         "price": 2.99,
-        "stock": 173.3,
+        "stock": 148.3,
         "quantity": 0
     },
     {
@@ -1452,7 +1452,7 @@
         "product": "FIO (CABO FLEXIVEL) SOM 18X075X P/M",
         "brand": "FOX LUX",
         "price": 1.89,
-        "stock": 118.7,
+        "stock": 116.2,
         "quantity": 0
     },
     {
@@ -1756,7 +1756,7 @@
         "product": "CABO TELEF. 50X2 P/M PAR CZ",
         "brand": "MEGATRON",
         "price": 1.45,
-        "stock": 234.0,
+        "stock": 222.0,
         "quantity": 0
     },
     {
@@ -1820,7 +1820,7 @@
         "product": "CAIXA LUZ 4X2 AMARELA- CE42M",
         "brand": "CANAL",
         "price": 1.5,
-        "stock": 67.0,
+        "stock": 212.0,
         "quantity": 0
     },
     {
@@ -1836,7 +1836,7 @@
         "product": "CAIXA LUZ 4X2 PRETA- CE42P",
         "brand": "CANAL",
         "price": 1.3,
-        "stock": 19.0,
+        "stock": 164.0,
         "quantity": 0
     },
     {
@@ -1900,7 +1900,7 @@
         "product": "CAIXA LUZ P/LAJE 30CM PRETA- FM30P",
         "brand": "CANAL",
         "price": 4.5,
-        "stock": 42.0,
+        "stock": 41.0,
         "quantity": 0
     },
     {
@@ -2017,10 +2017,10 @@
     },
     {
         "id": 252,
-        "product": "CANALETA P/FIO 40X16X2MTS",
+        "product": "CANALETA P/FIO 40X16X200MTS",
         "brand": "PERLEX",
-        "price": 22.0,
-        "stock": 1.0,
+        "price": 26.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -2028,7 +2028,7 @@
         "product": "CANALETA P/FIO C/FITA ADESIVA 2MT",
         "brand": "ILUME",
         "price": 9.99,
-        "stock": 52.0,
+        "stock": 74.0,
         "quantity": 0
     },
     {
@@ -2052,7 +2052,7 @@
         "product": "CARVAO 133G FURADEIRA MAKITA",
         "brand": "CARBONPEÇAS",
         "price": 7.0,
-        "stock": 11.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -2076,7 +2076,7 @@
         "product": "CARVÃO 138 G SERRA CART",
         "brand": "MAKITA",
         "price": 9.0,
-        "stock": 0.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -2124,7 +2124,7 @@
         "product": "CARVÃO 154G FUR. BOSH",
         "brand": "CARBO PEÇAS",
         "price": 7.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -2204,7 +2204,7 @@
         "product": "CARVÃO 303 P/SERRA MAK CB303",
         "brand": "MAKITA",
         "price": 28.0,
-        "stock": 11.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -2244,7 +2244,7 @@
         "product": "CENTRO 03 DISJUNTORES-CO3F",
         "brand": "CANAL",
         "price": 24.9,
-        "stock": 2.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -2260,7 +2260,7 @@
         "product": "CENTRO 06 DISJUNTORES- CO6B",
         "brand": "CANAL",
         "price": 29.0,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -2275,8 +2275,8 @@
         "id": 284,
         "product": "CENTRO 12 DISJUNTORES-C12F",
         "brand": "CANAL",
-        "price": 42.9,
-        "stock": 3.0,
+        "price": 48.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -2380,7 +2380,7 @@
         "product": "CONECTOR 16MM PORCELANA",
         "brand": "MORUMBI",
         "price": 9.0,
-        "stock": 16.0,
+        "stock": 15.0,
         "quantity": 0
     },
     {
@@ -2460,7 +2460,7 @@
         "product": "CONECTOR PRESSÃO 25MM",
         "brand": "CONIMEL",
         "price": 8.5,
-        "stock": 10.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -2604,7 +2604,7 @@
         "product": "DISJUN 20A DIM BIPOLAR",
         "brand": "FAME",
         "price": 39.0,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -2724,7 +2724,7 @@
         "product": "DISJUNTOR 40A DIM UNIPOLAR",
         "brand": "FAME",
         "price": 17.9,
-        "stock": 12.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -2812,7 +2812,7 @@
         "product": "CHUVEIRO (DUCHA) LORENZ 550X220 BELO BANH BR",
         "brand": "LORENZETTI",
         "price": 79.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -2836,7 +2836,7 @@
         "product": "CHUVEIRO (DUCHA) LORENZ. 220X6800VW4T BELA",
         "brand": "LORENZETTI",
         "price": 69.0,
-        "stock": 25.0,
+        "stock": 23.0,
         "quantity": 0
     },
     {
@@ -2924,7 +2924,7 @@
         "product": "ELETRODUTO COR B 3/4 RL 50M",
         "brand": "DELART",
         "price": 44.9,
-        "stock": 17.0,
+        "stock": 16.0,
         "quantity": 0
     },
     {
@@ -2940,7 +2940,7 @@
         "product": "ELETRODUTO COR D 5/8 P/M",
         "brand": "DELART",
         "price": 1.5,
-        "stock": 42.25,
+        "stock": 30.25,
         "quantity": 0
     },
     {
@@ -2948,7 +2948,7 @@
         "product": "ELETRODUTO COR E 3/4 P/M",
         "brand": "DELART",
         "price": 1.5,
-        "stock": 99.55,
+        "stock": 97.55,
         "quantity": 0
     },
     {
@@ -2956,7 +2956,7 @@
         "product": "ELETRODUTO COR F 1\" P/M",
         "brand": "DELART",
         "price": 3.0,
-        "stock": 30.0,
+        "stock": 25.0,
         "quantity": 0
     },
     {
@@ -3091,8 +3091,8 @@
         "id": 386,
         "product": "EXTENSÃO ELETRICA  3 METROS",
         "brand": "ILUMI",
-        "price": 14.99,
-        "stock": 2.0,
+        "price": 17.5,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -3100,7 +3100,7 @@
         "product": "EXTENSÃO ELETRICA  5 METROS",
         "brand": "ILUMI",
         "price": 23.9,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -3211,16 +3211,16 @@
         "id": 401,
         "product": "FITA ISOLANTE 05M ANTI CHAMA",
         "brand": "LORENZETTI",
-        "price": 3.5,
-        "stock": 17.0,
+        "price": 3.99,
+        "stock": 23.0,
         "quantity": 0
     },
     {
         "id": 402,
         "product": "FITA ISOLANTE 10M ANTI CHAMA",
         "brand": "LORENZETTI",
-        "price": 4.5,
-        "stock": 10.0,
+        "price": 4.99,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -3228,7 +3228,7 @@
         "product": "FITA ISOLANTE 20M ANTI CHAMA",
         "brand": "TIGRE",
         "price": 8.0,
-        "stock": 29.0,
+        "stock": 28.0,
         "quantity": 0
     },
     {
@@ -3292,7 +3292,7 @@
         "product": "FUSÍVEL 6X250V FILTRO LINHA",
         "brand": "TECXINA",
         "price": 1.5,
-        "stock": 16.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -3332,7 +3332,7 @@
         "product": "FUSIVEL P/ MICROONDAS 20 A",
         "brand": "CV",
         "price": 2.5,
-        "stock": 21.0,
+        "stock": 20.0,
         "quantity": 0
     },
     {
@@ -3419,8 +3419,8 @@
         "id": 427,
         "product": "INT 1T SIMP+TOM. C/P 4X2 REF.1901.118 BR",
         "brand": "RADIAL",
-        "price": 11.99,
-        "stock": 8.0,
+        "price": 12.99,
+        "stock": 27.0,
         "quantity": 0
     },
     {
@@ -3428,7 +3428,7 @@
         "product": "INT 1T SIMPLES  C/P 4X2 REF.1901.002 BR",
         "brand": "RADIAL",
         "price": 6.0,
-        "stock": 45.0,
+        "stock": 44.0,
         "quantity": 0
     },
     {
@@ -3492,7 +3492,7 @@
         "product": "INT MOD 2T. SIMPLES C/P 4X2",
         "brand": "FAME",
         "price": 21.5,
-        "stock": 29.0,
+        "stock": 28.0,
         "quantity": 0
     },
     {
@@ -3660,7 +3660,7 @@
         "product": "LAMPADA 15X127 GELADEIRA",
         "brand": "SADOKIN",
         "price": 6.0,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -3796,7 +3796,7 @@
         "product": "LAMPADA LED 12W 127X220 BIVOLT",
         "brand": "CITI LUMY",
         "price": 12.99,
-        "stock": 7.0,
+        "stock": 16.0,
         "quantity": 0
     },
     {
@@ -3820,7 +3820,7 @@
         "product": "LAMPADA LED 4.9 BIVOLT",
         "brand": "DURIN",
         "price": 9.99,
-        "stock": 10.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -3836,7 +3836,7 @@
         "product": "LAMPADA LED 9W 127X220V BIVOLT",
         "brand": "GALAX",
         "price": 9.99,
-        "stock": 31.0,
+        "stock": 30.0,
         "quantity": 0
     },
     {
@@ -4052,7 +4052,7 @@
         "product": "LUVA ELET. COND.  25MM",
         "brand": "FORTLEV",
         "price": 1.5,
-        "stock": 224.0,
+        "stock": 212.0,
         "quantity": 0
     },
     {
@@ -4332,7 +4332,7 @@
         "product": "PASSA FIO 15M AÇO REVESTIDO",
         "brand": "FOX LUX",
         "price": 19.99,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -4428,7 +4428,7 @@
         "product": "PINO ADAPTADOR 10/ 20A COLORIDO",
         "brand": "INTERNED",
         "price": 3.99,
-        "stock": 8.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -4452,7 +4452,7 @@
         "product": "PINO FEMEA 2P+T 20A",
         "brand": "PERLEX",
         "price": 5.5,
-        "stock": 9.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -4460,7 +4460,7 @@
         "product": "PINO FEMEA 2P+TERRA REF.1501.143",
         "brand": "RADIAL",
         "price": 5.5,
-        "stock": 37.0,
+        "stock": 36.0,
         "quantity": 0
     },
     {
@@ -4468,7 +4468,7 @@
         "product": "PINO FEMEA FAME 10AP",
         "brand": "FAME",
         "price": 5.99,
-        "stock": 9.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -4492,7 +4492,7 @@
         "product": "PINO MACHO 2P+TERRA 20A BRANCO",
         "brand": "DANEVA",
         "price": 8.99,
-        "stock": 12.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -4508,7 +4508,7 @@
         "product": "PINO MACHO TRAMONTINA",
         "brand": "TRAMONTINA",
         "price": 3.99,
-        "stock": 20.0,
+        "stock": 19.0,
         "quantity": 0
     },
     {
@@ -4636,7 +4636,7 @@
         "product": "PLACA SINAL 220V",
         "brand": "SINALIZE",
         "price": 0.99,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -4652,7 +4652,7 @@
         "product": "PLAFON DECORADO BRANCO",
         "brand": "GLOBO",
         "price": 9.5,
-        "stock": 19.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -4660,7 +4660,7 @@
         "product": "PLAFON PVC C/BOCAL BRANCO",
         "brand": "FOXLUX",
         "price": 7.9,
-        "stock": 26.0,
+        "stock": 22.0,
         "quantity": 0
     },
     {
@@ -4844,7 +4844,7 @@
         "product": "RESISTENCIA  LORENZ 5500X220V TORN",
         "brand": "LORENZETI",
         "price": 34.9,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -4852,7 +4852,7 @@
         "product": "RESISTENCIA LORENZ 220VX6800 BELA ULT",
         "brand": "LORENZETTI",
         "price": 33.9,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -4908,7 +4908,7 @@
         "product": "RESISTENCIA LORENZ 6800X220FASH BELA",
         "brand": "LORENZETTI",
         "price": 34.5,
-        "stock": 12.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -4948,7 +4948,7 @@
         "product": "RESISTENCIA ORIG.CORONA 220V X5200",
         "brand": "CORONA HIDRA",
         "price": 19.5,
-        "stock": 12.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -4995,8 +4995,8 @@
         "id": 624,
         "product": "RESISTENCIA ORIG.FAME 5400X220V AQUEC",
         "brand": "FAME",
-        "price": 22.9,
-        "stock": 4.0,
+        "price": 26.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -5028,7 +5028,7 @@
         "product": "RESISTENCIA ORIG.GORD.3T 220 X5400V",
         "brand": "HIDRA",
         "price": 21.9,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -5036,7 +5036,7 @@
         "product": "RESISTENCIA PAR. 127W CORONA",
         "brand": "TUTINOX",
         "price": 3.0,
-        "stock": 9.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -5307,8 +5307,8 @@
         "id": 663,
         "product": "SUPORTE DISJUNTOR DIM P/UND",
         "brand": "SUPREP",
-        "price": 0.98,
-        "stock": 11.0,
+        "price": 0.99,
+        "stock": 89.0,
         "quantity": 0
     },
     {
@@ -5572,7 +5572,7 @@
         "product": "TOMADA ELET C/P 4X2 REF1901.113 BR",
         "brand": "RADIAL",
         "price": 6.9,
-        "stock": 68.0,
+        "stock": 62.0,
         "quantity": 0
     },
     {
@@ -5588,7 +5588,7 @@
         "product": "TOMADA ELET SIMPLES 4X2 MOD. 10A",
         "brand": "FAME",
         "price": 11.5,
-        "stock": 63.0,
+        "stock": 62.0,
         "quantity": 0
     },
     {
@@ -5596,7 +5596,7 @@
         "product": "TOMADA ELET SIMPLES 4X2 MOD. 20A",
         "brand": "FAME",
         "price": 12.5,
-        "stock": 94.0,
+        "stock": 92.0,
         "quantity": 0
     },
     {
@@ -5604,7 +5604,7 @@
         "product": "TOMADA ELET SIMPLES 4X2 VERMELHA 20A",
         "brand": "FAME",
         "price": 16.9,
-        "stock": 9.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -5924,7 +5924,7 @@
         "product": "ABRAÇADEIRA ROSCA S/FIM 16-19",
         "brand": "INCA",
         "price": 1.98,
-        "stock": 113.0,
+        "stock": 109.0,
         "quantity": 0
     },
     {
@@ -5932,7 +5932,7 @@
         "product": "ABRAÇADEIRA ROSCA S/FIM 19-25",
         "brand": "INCA",
         "price": 2.5,
-        "stock": 70.0,
+        "stock": 67.0,
         "quantity": 0
     },
     {
@@ -5956,7 +5956,7 @@
         "product": "ABRAÇADEIRA ROSCA S/FIM 38-51",
         "brand": "INCA",
         "price": 3.5,
-        "stock": 49.0,
+        "stock": 47.0,
         "quantity": 0
     },
     {
@@ -5996,7 +5996,7 @@
         "product": "AÇO CA-50 04,2MM (3/16) BR C/12M",
         "brand": "BELGO/VOTORAÇO",
         "price": 28.0,
-        "stock": 4.7,
+        "stock": 51.7,
         "quantity": 0
     },
     {
@@ -6004,7 +6004,7 @@
         "product": "AÇO CA-50 06,3MM (1/4) BR C/12MTS",
         "brand": "BELGO/VOTORAÇO",
         "price": 46.0,
-        "stock": 3.55,
+        "stock": 50.0,
         "quantity": 0
     },
     {
@@ -6012,7 +6012,7 @@
         "product": "AÇO CA-50 08,0MM (5/16) BR C/12MTS",
         "brand": "BELGO",
         "price": 59.0,
-        "stock": 36.183,
+        "stock": 134.183,
         "quantity": 0
     },
     {
@@ -6020,7 +6020,7 @@
         "product": "AÇO CA-50 10,0MM (3/8) BR C/12MTS",
         "brand": "BELGO/VOTORAÇO",
         "price": 79.0,
-        "stock": 68.7,
+        "stock": 68.2,
         "quantity": 0
     },
     {
@@ -6172,7 +6172,7 @@
         "product": "APLICADOR 9'' SILICONE",
         "brand": "SPARTA",
         "price": 15.99,
-        "stock": 7.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -6252,7 +6252,7 @@
         "product": "ARAME RECOZIDO 1KG TORCIDO",
         "brand": "BELGO",
         "price": 26.9,
-        "stock": 47.0,
+        "stock": 44.0,
         "quantity": 0
     },
     {
@@ -6316,7 +6316,7 @@
         "product": "ARRUELA LISA A 5/32",
         "brand": "JOMARCA",
         "price": 0.12,
-        "stock": 584.0,
+        "stock": 574.0,
         "quantity": 0
     },
     {
@@ -6324,7 +6324,7 @@
         "product": "ARRUELA LISA B 3/16",
         "brand": "SEM MARCA",
         "price": 0.15,
-        "stock": 380.0,
+        "stock": 378.0,
         "quantity": 0
     },
     {
@@ -6340,7 +6340,7 @@
         "product": "ARRUELA LISA D 5/16",
         "brand": "SEM MARCA",
         "price": 0.3,
-        "stock": 232.0,
+        "stock": 228.0,
         "quantity": 0
     },
     {
@@ -6356,7 +6356,7 @@
         "product": "ARRUELA LISA F 1/2",
         "brand": "SEM MARCA",
         "price": 0.45,
-        "stock": 140.0,
+        "stock": 136.0,
         "quantity": 0
     },
     {
@@ -6387,7 +6387,7 @@
         "id": 798,
         "product": "ARRUELA PRESSÃO 1/4",
         "brand": "SÃO RAPHEL",
-        "price": 0.13,
+        "price": 0.2,
         "stock": 941.0,
         "quantity": 0
     },
@@ -6395,15 +6395,15 @@
         "id": 799,
         "product": "ARRUELA PRESSÃO 3/8",
         "brand": "SÃO RAPHEL",
-        "price": 0.19,
-        "stock": 494.0,
+        "price": 0.29,
+        "stock": 490.0,
         "quantity": 0
     },
     {
         "id": 800,
         "product": "ARRUELA PRESSÃO 5/16",
         "brand": "SÃO RAPHAEL",
-        "price": 0.15,
+        "price": 0.28,
         "stock": 946.0,
         "quantity": 0
     },
@@ -6443,8 +6443,8 @@
         "id": 805,
         "product": "BAINHA FACÃO 18\"",
         "brand": "SEM MARCA",
-        "price": 15.0,
-        "stock": 0.0,
+        "price": 22.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -6466,9 +6466,9 @@
     {
         "id": 808,
         "product": "BALDE CANAL 12LT",
-        "brand": "ZUMBLICK",
-        "price": 8.5,
-        "stock": 0.0,
+        "brand": "CANAL",
+        "price": 12.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -6508,7 +6508,7 @@
         "product": "BARRA ROSCADA D 5/16X1MT ZINCADA",
         "brand": "CISER",
         "price": 9.0,
-        "stock": 9.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -6620,7 +6620,7 @@
         "product": "BOMBA DE AR MANUAL",
         "brand": "BRASFORTE",
         "price": 15.5,
-        "stock": 2.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -6676,7 +6676,7 @@
         "product": "BROCA AÇO CARBONO 1/4 6M  MOURÃO",
         "brand": "STAFER",
         "price": 12.99,
-        "stock": 10.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -6700,7 +6700,7 @@
         "product": "BROCA AÇO CARBONO C 5MM (3/16)",
         "brand": "TWILL",
         "price": 8.99,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -6708,7 +6708,7 @@
         "product": "BROCA AÇO CARBONO D 6MM (1/4)",
         "brand": "TWILL",
         "price": 13.0,
-        "stock": 7.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -6764,7 +6764,7 @@
         "product": "BROCA AÇO RAPIDO E 5/32\" 4MM",
         "brand": "TWILL",
         "price": 9.5,
-        "stock": 14.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -6812,7 +6812,7 @@
         "product": "BROCA CHATA A 1/4",
         "brand": "THOMPSON",
         "price": 8.0,
-        "stock": 15.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -6820,7 +6820,7 @@
         "product": "BROCA CHATA B 5/16\"",
         "brand": "RECORD",
         "price": 9.0,
-        "stock": 0.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -6916,7 +6916,7 @@
         "product": "BROCA VIDEA C 6MM (1/4)",
         "brand": "TWILL",
         "price": 9.99,
-        "stock": 7.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -7028,7 +7028,7 @@
         "product": "BUCHA 07 P/ PARAFUSO",
         "brand": "IV PLAST",
         "price": 0.1,
-        "stock": 435.0,
+        "stock": 405.0,
         "quantity": 0
     },
     {
@@ -7036,7 +7036,7 @@
         "product": "BUCHA 08 P/ PARAFUSO",
         "brand": "IV PLAST",
         "price": 0.18,
-        "stock": 1013.0,
+        "stock": 962.0,
         "quantity": 0
     },
     {
@@ -7044,7 +7044,7 @@
         "product": "BUCHA 08MM P/TIJOLO",
         "brand": "WURTH",
         "price": 0.49,
-        "stock": 122.0,
+        "stock": 116.0,
         "quantity": 0
     },
     {
@@ -7052,7 +7052,7 @@
         "product": "BUCHA 10 P/ PARAFUSO",
         "brand": "IV PLAST",
         "price": 0.21,
-        "stock": 421.0,
+        "stock": 413.0,
         "quantity": 0
     },
     {
@@ -7068,7 +7068,7 @@
         "product": "BUCHA 12 P/ PARAFUSO",
         "brand": "IV PLAST",
         "price": 0.27,
-        "stock": 217.0,
+        "stock": 209.0,
         "quantity": 0
     },
     {
@@ -7163,8 +7163,8 @@
         "id": 895,
         "product": "CABO CHIBANCA PIKARETA- CP/C",
         "brand": "CV",
-        "price": 18.0,
-        "stock": 11.0,
+        "price": 19.5,
+        "stock": 23.0,
         "quantity": 0
     },
     {
@@ -7180,7 +7180,7 @@
         "product": "CABO ENXADA- C15",
         "brand": "CANAL",
         "price": 13.5,
-        "stock": 6.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -7236,7 +7236,7 @@
         "product": "CABO MARTELO 55CM MADERITE",
         "brand": "COMSPESP",
         "price": 7.9,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -7260,7 +7260,7 @@
         "product": "CADEADO 20MM PADO",
         "brand": "PADO",
         "price": 18.9,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -7308,7 +7308,7 @@
         "product": "CADEADO 35MM",
         "brand": "PADO",
         "price": 29.0,
-        "stock": 1.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -7475,7 +7475,7 @@
         "id": 934,
         "product": "CAIXA MASSA BRANCA- MASB",
         "brand": "CANAL",
-        "price": 16.99,
+        "price": 22.0,
         "stock": 7.0,
         "quantity": 0
     },
@@ -7483,8 +7483,8 @@
         "id": 935,
         "product": "CAIXA MASSA PRETA / MAS-P",
         "brand": "CANAL",
-        "price": 12.0,
-        "stock": 3.0,
+        "price": 18.99,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -7555,8 +7555,8 @@
         "id": 944,
         "product": "CAMARA CARRINHO MAO",
         "brand": "AJAX",
-        "price": 19.99,
-        "stock": 1.0,
+        "price": 22.99,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -7668,7 +7668,7 @@
         "product": "CANTONEIRA AL L 3/4X3M ALUMINIO",
         "brand": "VITORIA",
         "price": 13.0,
-        "stock": 28.0,
+        "stock": 20.0,
         "quantity": 0
     },
     {
@@ -7700,7 +7700,7 @@
         "product": "CANTONEIRA L 1'' P/ MOVEIS",
         "brand": "SÃO RAFAEL",
         "price": 1.0,
-        "stock": 35.0,
+        "stock": 31.0,
         "quantity": 0
     },
     {
@@ -7835,8 +7835,8 @@
         "id": 979,
         "product": "CAVADEIRA COMUM C/ 2 CABOS 1,5MTS",
         "brand": "CANAL",
-        "price": 59.0,
-        "stock": 5.0,
+        "price": 69.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -7844,7 +7844,7 @@
         "product": "CAVADEIRA RETA C/ CABO MAD CVRR",
         "brand": "CANAL",
         "price": 46.5,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -8076,7 +8076,7 @@
         "product": "CHAVE COMBINADA 13MM",
         "brand": "TRAMONTINA",
         "price": 13.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -8156,7 +8156,7 @@
         "product": "CHAVE FENDA C 3/16X4\" 6219B",
         "brand": "LOYAL",
         "price": 8.0,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -8332,7 +8332,7 @@
         "product": "CHAVE L 08X8MM",
         "brand": "IMA",
         "price": 11.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -8348,7 +8348,7 @@
         "product": "CHAVE L 10MM",
         "brand": "BIELA",
         "price": 11.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -8403,8 +8403,8 @@
         "id": 1050,
         "product": "CHAVE L 19MM",
         "brand": "WESTERN",
-        "price": 16.99,
-        "stock": 0.0,
+        "price": 17.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -8420,7 +8420,7 @@
         "product": "CHAVE MANDRIL S-2 T",
         "brand": "BRASFORT",
         "price": 6.99,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -8780,7 +8780,7 @@
         "product": "COLA CONTATO 200G",
         "brand": "AMAZONAS",
         "price": 13.99,
-        "stock": 7.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -8900,7 +8900,7 @@
         "product": "COLHER PEDREIRO  9\" RETA PACETA",
         "brand": "PACETTA",
         "price": 39.9,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -8956,7 +8956,7 @@
         "product": "COLUNA 4F  8,0MM EST 09X14 ESP 30CM",
         "brand": "CENTER VALE",
         "price": 25.5,
-        "stock": 9.1,
+        "stock": 1.1,
         "quantity": 0
     },
     {
@@ -8988,7 +8988,7 @@
         "product": "COLUNA 4F 10,0MM EST 09X14 ESP. 30CM",
         "brand": "CENTER  VALE",
         "price": 33.5,
-        "stock": 20.25,
+        "stock": 13.25,
         "quantity": 0
     },
     {
@@ -9148,7 +9148,7 @@
         "product": "CORDA 12MM POLIESTER P/M",
         "brand": "POLIBEL",
         "price": 3.9,
-        "stock": 93.5,
+        "stock": 81.5,
         "quantity": 0
     },
     {
@@ -9252,7 +9252,7 @@
         "product": "CORREIA 3L- 350",
         "brand": "TECBELT",
         "price": 14.5,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -9684,7 +9684,7 @@
         "product": "DESEMP 18X30 PLAST CORR CD.121",
         "brand": "CASTOR",
         "price": 14.9,
-        "stock": 9.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -9732,7 +9732,7 @@
         "product": "DESEMP 22X34 LIZA AZUL",
         "brand": "INJEREST",
         "price": 18.5,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -9764,7 +9764,7 @@
         "product": "DISCO LIXADEIRA 114,3X1,0X22,22 AÇO INOX",
         "brand": "STARRET",
         "price": 4.9,
-        "stock": 49.0,
+        "stock": 45.0,
         "quantity": 0
     },
     {
@@ -9900,7 +9900,7 @@
         "product": "DISCO MAKITA 110X20 CORTE TURBO",
         "brand": "NORTON",
         "price": 34.5,
-        "stock": 7.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -9908,7 +9908,7 @@
         "product": "DISCO MAKITA 110X20 CORTE TURBO SECO",
         "brand": "SAMAFER",
         "price": 15.0,
-        "stock": 14.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -9924,7 +9924,7 @@
         "product": "DISCO MAKITA 110X20 WIDEA P/ MADEIRA",
         "brand": "SAMAFER",
         "price": 16.5,
-        "stock": 18.0,
+        "stock": 17.0,
         "quantity": 0
     },
     {
@@ -9980,7 +9980,7 @@
         "product": "DOBRADIÇA GONZO C/CHUMB",
         "brand": "JOCEC",
         "price": 19.9,
-        "stock": 2.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -10012,7 +10012,7 @@
         "product": "DOBRADIÇA PORTA 1.1/2\" UN",
         "brand": "SILVANA",
         "price": 1.5,
-        "stock": 20.0,
+        "stock": 14.0,
         "quantity": 0
     },
     {
@@ -10220,7 +10220,7 @@
         "product": "ELETRODO 2,5MM SOLDA UN",
         "brand": "ELED",
         "price": 0.98,
-        "stock": 982.0,
+        "stock": 960.0,
         "quantity": 0
     },
     {
@@ -10404,7 +10404,7 @@
         "product": "ESGUICHO METAL 1/2 METAL",
         "brand": "GARDEN",
         "price": 27.5,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -10788,7 +10788,7 @@
         "product": "FECHADURA PORTÃO SOBREPOR",
         "brand": "STAM",
         "price": 78.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -10963,7 +10963,7 @@
         "id": 1370,
         "product": "FERROLHO P/ CADEADO 114MM",
         "brand": "ALIANÇA",
-        "price": 7.0,
+        "price": 9.5,
         "stock": 10.0,
         "quantity": 0
     },
@@ -10987,15 +10987,15 @@
         "id": 1373,
         "product": "FERROLHO P/ CADEADO 63MM GRANEL",
         "brand": "ALIANÇA",
-        "price": 4.0,
-        "stock": 44.0,
+        "price": 6.0,
+        "stock": 43.0,
         "quantity": 0
     },
     {
         "id": 1374,
         "product": "FERROLHO P/ CADEADO 89MM",
         "brand": "ALIANÇA",
-        "price": 6.5,
+        "price": 8.5,
         "stock": 8.0,
         "quantity": 0
     },
@@ -11012,7 +11012,7 @@
         "product": "FITA AÇO PERFURADA 0,19X1,0M",
         "brand": "SEM MARCA",
         "price": 6.5,
-        "stock": 11.15,
+        "stock": 10.75,
         "quantity": 0
     },
     {
@@ -11036,7 +11036,7 @@
         "product": "FITA PARA EMBALAGEM 45X45M MARROM",
         "brand": "ADERE",
         "price": 5.5,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -11235,8 +11235,8 @@
         "id": 1404,
         "product": "GRAMPO MORÇA 2''",
         "brand": "STAFER",
-        "price": 14.99,
-        "stock": 2.0,
+        "price": 16.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -11492,7 +11492,7 @@
         "product": "KIT VARÃO P/CORTINA 1,50M MARFIN",
         "brand": "ESTILUS",
         "price": 13.99,
-        "stock": 9.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -11604,7 +11604,7 @@
         "product": "KIT VARÃO P/CORTINA 4,00M BRANCO",
         "brand": "ESTILUS",
         "price": 28.0,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -11644,7 +11644,7 @@
         "product": "LAMINA P/ ESTILETE LARGA C/10 UN",
         "brand": "BRASFORT",
         "price": 6.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -11676,7 +11676,7 @@
         "product": "LAPIS P/ CARPINTEIRO MARCINEIRO",
         "brand": "IRWIN",
         "price": 3.8,
-        "stock": 21.0,
+        "stock": 19.0,
         "quantity": 0
     },
     {
@@ -11804,7 +11804,7 @@
         "product": "LUVA ELET. COND. 1\" AM",
         "brand": "TIGRE",
         "price": 1.99,
-        "stock": 53.0,
+        "stock": 51.0,
         "quantity": 0
     },
     {
@@ -11828,7 +11828,7 @@
         "product": "LUVA USO MÃO G LATEX VERDE",
         "brand": "SANRO",
         "price": 9.99,
-        "stock": 9.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -11844,7 +11844,7 @@
         "product": "LUVA USO MÃO M LATEX AMARELA",
         "brand": "SANRO",
         "price": 6.99,
-        "stock": 13.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -11852,7 +11852,7 @@
         "product": "LUVA USO MÃO PIGMENTADA PADRÃO",
         "brand": "SOL LUVAS",
         "price": 5.0,
-        "stock": 26.0,
+        "stock": 25.0,
         "quantity": 0
     },
     {
@@ -11860,7 +11860,7 @@
         "product": "LUVA USO MÃO VE702PG09",
         "brand": "DELTA PLUS",
         "price": 7.5,
-        "stock": 10.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -11884,7 +11884,7 @@
         "product": "MACHADINHA C/CABO",
         "brand": "TEKFUND",
         "price": 28.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -12220,7 +12220,7 @@
         "product": "MIGUELÃO CABO 10MM RIFIXA",
         "brand": "RIBEIRO",
         "price": 2.99,
-        "stock": 39.0,
+        "stock": 38.0,
         "quantity": 0
     },
     {
@@ -12484,7 +12484,7 @@
         "product": "PÁ DE BICO C/CABO Y Nº 3",
         "brand": "TRAMONTINA",
         "price": 42.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -12588,7 +12588,7 @@
         "product": "PARAFUSO AUTOBROC PH 4,2X13",
         "brand": "ANCORA",
         "price": 0.28,
-        "stock": 624.0,
+        "stock": 603.0,
         "quantity": 0
     },
     {
@@ -12620,7 +12620,7 @@
         "product": "PARAFUSO AUTOBROCOC PH 4.2X25",
         "brand": "JOMARCA",
         "price": 0.29,
-        "stock": 309.0,
+        "stock": 299.0,
         "quantity": 0
     },
     {
@@ -12676,7 +12676,7 @@
         "product": "PARAFUSO BUCHA AÇO D 1/2 X3\"",
         "brand": "ANCORA",
         "price": 4.5,
-        "stock": 15.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -12756,7 +12756,7 @@
         "product": "PARAFUSO FRANCES 1/4X2.1/2 C/PORCA",
         "brand": "CISER",
         "price": 0.89,
-        "stock": 12.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -12764,7 +12764,7 @@
         "product": "PARAFUSO FRANCES 1/4X3 C/PORCA",
         "brand": "CISER",
         "price": 0.99,
-        "stock": 47.0,
+        "stock": 43.0,
         "quantity": 0
     },
     {
@@ -12884,7 +12884,7 @@
         "product": "PARAFUSO MAD 3,0X14MM PH",
         "brand": "WURTH",
         "price": 0.08,
-        "stock": 286.0,
+        "stock": 245.0,
         "quantity": 0
     },
     {
@@ -12948,7 +12948,7 @@
         "product": "PARAFUSO MAD 3,5X20MM PH",
         "brand": "WURTH",
         "price": 0.15,
-        "stock": 814.0,
+        "stock": 812.0,
         "quantity": 0
     },
     {
@@ -12972,7 +12972,7 @@
         "product": "PARAFUSO MAD 3,5X30MM PH B5",
         "brand": "JOMARCA",
         "price": 0.25,
-        "stock": 521.0,
+        "stock": 504.0,
         "quantity": 0
     },
     {
@@ -12988,7 +12988,7 @@
         "product": "PARAFUSO MAD 3,5X40MM PH",
         "brand": "JOMARCA",
         "price": 0.22,
-        "stock": 108.0,
+        "stock": 88.0,
         "quantity": 0
     },
     {
@@ -13020,7 +13020,7 @@
         "product": "PARAFUSO MAD 4,0X25MM PH",
         "brand": "",
         "price": 0.2,
-        "stock": 359.0,
+        "stock": 350.0,
         "quantity": 0
     },
     {
@@ -13044,7 +13044,7 @@
         "product": "PARAFUSO MAD 4,0X40MM PH",
         "brand": "",
         "price": 0.39,
-        "stock": 442.0,
+        "stock": 430.0,
         "quantity": 0
     },
     {
@@ -13076,7 +13076,7 @@
         "product": "PARAFUSO MAD 4,5X20MM PH",
         "brand": "JOMARCA",
         "price": 0.22,
-        "stock": 371.0,
+        "stock": 367.0,
         "quantity": 0
     },
     {
@@ -13244,7 +13244,7 @@
         "product": "PARAFUSO MAD 6,0X50MM PH",
         "brand": "JOMARCA",
         "price": 0.85,
-        "stock": 249.0,
+        "stock": 237.0,
         "quantity": 0
     },
     {
@@ -13260,7 +13260,7 @@
         "product": "PARAFUSO MAD 6,0X70MM PH",
         "brand": "NEWFIX",
         "price": 0.93,
-        "stock": 119.0,
+        "stock": 106.0,
         "quantity": 0
     },
     {
@@ -13268,7 +13268,7 @@
         "product": "PARAFUSO MAD 6.1X90MM PH",
         "brand": "JOMARCA",
         "price": 1.49,
-        "stock": 93.0,
+        "stock": 84.0,
         "quantity": 0
     },
     {
@@ -13404,7 +13404,7 @@
         "product": "PARAFUSO MAD. 5,0X45MM SEXTAVADO",
         "brand": "JOMARCA",
         "price": 0.5,
-        "stock": 111.0,
+        "stock": 81.0,
         "quantity": 0
     },
     {
@@ -13508,7 +13508,7 @@
         "product": "PARAFUSO MAD. 8.0X55 SEXTAVADO",
         "brand": "JOMARCA",
         "price": 1.2,
-        "stock": 11.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -13580,7 +13580,7 @@
         "product": "PARAFUSO R MAQ C 5/32X1/2 F S/PORCA",
         "brand": "JOMARCA",
         "price": 0.13,
-        "stock": 223.0,
+        "stock": 222.0,
         "quantity": 0
     },
     {
@@ -13596,7 +13596,7 @@
         "product": "PARAFUSO R MAQ E 3/16X1\" F S/PORCA",
         "brand": "JOMARCA",
         "price": 0.2,
-        "stock": 144.0,
+        "stock": 141.0,
         "quantity": 0
     },
     {
@@ -13604,7 +13604,7 @@
         "product": "PARAFUSO R MAQ F 3/16X1.1/2 F S/PORCA",
         "brand": "JOMARCA",
         "price": 0.25,
-        "stock": 43.0,
+        "stock": 41.0,
         "quantity": 0
     },
     {
@@ -13652,7 +13652,7 @@
         "product": "PARAFUSO R MAQ J1/4X1.1/2 SEXT S/P",
         "brand": "JOMARCA",
         "price": 0.6,
-        "stock": 189.0,
+        "stock": 185.0,
         "quantity": 0
     },
     {
@@ -13724,7 +13724,7 @@
         "product": "PARAFUSO R MAQ.T 3/8X3'' SEX S/P",
         "brand": "JOMARCA",
         "price": 1.85,
-        "stock": 11.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -13748,7 +13748,7 @@
         "product": "PARAFUSO TELHA 5/16X110MM C/ VEDAÇÃO",
         "brand": "GIROFIX",
         "price": 1.5,
-        "stock": 608.0,
+        "stock": 598.0,
         "quantity": 0
     },
     {
@@ -13804,7 +13804,7 @@
         "product": "PÉ GABINETE PVC PEQUENO",
         "brand": "JB",
         "price": 4.9,
-        "stock": 8.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -13868,7 +13868,7 @@
         "product": "PENEIRA FUBÁ 30 CRIVO",
         "brand": "PAGANINI",
         "price": 15.0,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -13881,10 +13881,10 @@
     },
     {
         "id": 1735,
-        "product": "PICARETA S/CABO",
-        "brand": "TENACE",
-        "price": 48.0,
-        "stock": 0.0,
+        "product": "PICARETA C/CABO",
+        "brand": "CANAL",
+        "price": 59.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -13948,7 +13948,7 @@
         "product": "PITÃO L C/ BUCHA 8",
         "brand": "SÃO RAFAEL",
         "price": 1.0,
-        "stock": 54.0,
+        "stock": 40.0,
         "quantity": 0
     },
     {
@@ -13956,7 +13956,7 @@
         "product": "PLACA EPS 100X100X2 CM ISOPOR",
         "brand": "EPS",
         "price": 7.9,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -13980,7 +13980,7 @@
         "product": "PNEU CARRINHO DE MÃO 3.25X8",
         "brand": "D´LUCCA",
         "price": 39.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -14068,7 +14068,7 @@
         "product": "PONTEIRA PHILLIPS 50MM",
         "brand": "ANCORA",
         "price": 3.5,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -14148,7 +14148,7 @@
         "product": "PORCA SEXTAVADA B 5/32''",
         "brand": "GIROFIX",
         "price": 0.1,
-        "stock": 211.0,
+        "stock": 210.0,
         "quantity": 0
     },
     {
@@ -14156,7 +14156,7 @@
         "product": "PORCA SEXTAVADA C 3/16\"",
         "brand": "IMPERATRIZ",
         "price": 0.11,
-        "stock": 610.0,
+        "stock": 605.0,
         "quantity": 0
     },
     {
@@ -14164,7 +14164,7 @@
         "product": "PORCA SEXTAVADA D 1/4\"",
         "brand": "CISER",
         "price": 0.15,
-        "stock": 201.0,
+        "stock": 197.0,
         "quantity": 0
     },
     {
@@ -14172,7 +14172,7 @@
         "product": "PORCA SEXTAVADA E 5/16\" NC",
         "brand": "CISER",
         "price": 0.18,
-        "stock": 335.0,
+        "stock": 328.0,
         "quantity": 0
     },
     {
@@ -14180,7 +14180,7 @@
         "product": "PORCA SEXTAVADA F 3/8",
         "brand": "IMPERATRIZ",
         "price": 0.3,
-        "stock": 299.0,
+        "stock": 297.0,
         "quantity": 0
     },
     {
@@ -14260,7 +14260,7 @@
         "product": "PREGO DE AÇO 17X21 C/C PTE 276G 100UN",
         "brand": "SO PREGO",
         "price": 22.5,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -14276,7 +14276,7 @@
         "product": "PREGO DE AÇO 18X27 C/C PTE 447G 100UN",
         "brand": "SÓ PREGO",
         "price": 34.9,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -14284,7 +14284,7 @@
         "product": "PREGO DE AÇO 18X27 C/C UN",
         "brand": "SOPREGO",
         "price": 0.58,
-        "stock": 85.0,
+        "stock": 185.0,
         "quantity": 0
     },
     {
@@ -14404,7 +14404,7 @@
         "product": "PREGO POLIDO 12X12 C/C PTE 50G",
         "brand": "GERDAU",
         "price": 3.99,
-        "stock": 11.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -14436,14 +14436,14 @@
         "product": "PREGO POLIDO 13 X15 C/C PTE 250G",
         "brand": "RECOFER",
         "price": 12.5,
-        "stock": 19.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
         "id": 1805,
         "product": "PREGO POLIDO 13X15 C/C PTE 50GR",
         "brand": "GERDAU",
-        "price": 3.5,
+        "price": 3.99,
         "stock": 0.0,
         "quantity": 0
     },
@@ -14500,15 +14500,15 @@
         "product": "PREGO POLIDO 15X21 C/C 1KG",
         "brand": "BELGO",
         "price": 22.0,
-        "stock": 15.0,
+        "stock": 14.0,
         "quantity": 0
     },
     {
         "id": 1813,
         "product": "PREGO POLIDO 17X21 C/C PTE 1KG",
         "brand": "BELGO",
-        "price": 21.9,
-        "stock": 15.0,
+        "price": 24.9,
+        "stock": 34.0,
         "quantity": 0
     },
     {
@@ -14516,7 +14516,7 @@
         "product": "PREGO POLIDO 17X21 C/C PTE 250G",
         "brand": "GERDAU",
         "price": 8.99,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -14563,8 +14563,8 @@
         "id": 1820,
         "product": "PREGO POLIDO 18X27 C/C 1KG",
         "brand": "BELGO",
-        "price": 21.9,
-        "stock": 38.0,
+        "price": 22.9,
+        "stock": 54.0,
         "quantity": 0
     },
     {
@@ -14580,7 +14580,7 @@
         "product": "PREGO POLIDO 18X27 C/C PTE 50GR",
         "brand": "GERDAU",
         "price": 2.99,
-        "stock": 8.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -14660,7 +14660,7 @@
         "product": "PREGO POLIDO 20X48 C/C PTE 50GR",
         "brand": "GERDAU",
         "price": 2.0,
-        "stock": 14.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -14740,7 +14740,7 @@
         "product": "PRUMO 300GR PVC",
         "brand": "RAMADA",
         "price": 18.9,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -14892,7 +14892,7 @@
         "product": "REBITE ALUMINIO Nº 416",
         "brand": "REBITOP",
         "price": 0.3,
-        "stock": 1047.0,
+        "stock": 1017.0,
         "quantity": 0
     },
     {
@@ -14924,7 +14924,7 @@
         "product": "RÉGUA 2M  ALUMINIO",
         "brand": "ADRIANA",
         "price": 28.0,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -14956,7 +14956,7 @@
         "product": "REGULADOR GÁS 504 ALIANÇA",
         "brand": "ALIANÇA",
         "price": 38.9,
-        "stock": 11.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -15075,7 +15075,7 @@
         "id": 1884,
         "product": "ROLDANA PORTÃO 4\"",
         "brand": "JOCE",
-        "price": 38.0,
+        "price": 42.0,
         "stock": 1.0,
         "quantity": 0
     },
@@ -15083,7 +15083,7 @@
         "id": 1885,
         "product": "ROLDANA PORTÃO C/SUPORTE 4''",
         "brand": "STAFER",
-        "price": 47.0,
+        "price": 68.0,
         "stock": 2.0,
         "quantity": 0
     },
@@ -15100,7 +15100,7 @@
         "product": "RUFO GALVANIZADO 28X2,00MT",
         "brand": "AUGI CAHLAS",
         "price": 49.0,
-        "stock": 21.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -15124,7 +15124,7 @@
         "product": "SACO ENTULHO DIVERSOS TAM",
         "brand": "FIBRA",
         "price": 2.0,
-        "stock": 59.0,
+        "stock": 54.0,
         "quantity": 0
     },
     {
@@ -15220,7 +15220,7 @@
         "product": "SERRA 12X18 300MM STARRETT",
         "brand": "STARRETT",
         "price": 10.99,
-        "stock": 19.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -15228,7 +15228,7 @@
         "product": "SERRA 12X18 300MM THOMPSON",
         "brand": "THOMPSON",
         "price": 2.0,
-        "stock": 20.0,
+        "stock": 19.0,
         "quantity": 0
     },
     {
@@ -15316,7 +15316,7 @@
         "product": "SILICONE 270 G TRANSPARENTE",
         "brand": "BRASCOLA",
         "price": 19.0,
-        "stock": 16.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -15332,7 +15332,7 @@
         "product": "SILICONE 50 G TRANSPARENTE",
         "brand": "TEK BOND",
         "price": 6.0,
-        "stock": 30.0,
+        "stock": 27.0,
         "quantity": 0
     },
     {
@@ -15356,7 +15356,7 @@
         "product": "SOLDA ESTANHO TUBO",
         "brand": "EMAVI",
         "price": 7.0,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -15500,7 +15500,7 @@
         "product": "SUPORTE ROLO 23CM COMPEL",
         "brand": "COMPEL",
         "price": 4.5,
-        "stock": 11.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -15555,8 +15555,8 @@
         "id": 1944,
         "product": "TALHADEIRA B 3/4X35CM LISA",
         "brand": "FERREIRA",
-        "price": 12.99,
-        "stock": 4.0,
+        "price": 18.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -15772,7 +15772,7 @@
         "product": "TESOURA USO GERAL",
         "brand": "TRAMONTINA",
         "price": 20.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -15796,7 +15796,7 @@
         "product": "TORQUES ARMADOR 12''",
         "brand": "TRAMONTINA",
         "price": 69.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -15836,7 +15836,7 @@
         "product": "TRANQUETA VIRADA",
         "brand": "ALIANÇA",
         "price": 9.99,
-        "stock": 20.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -15860,7 +15860,7 @@
         "product": "TRAVA PORTA PAREDE",
         "brand": "SOPRANO",
         "price": 6.99,
-        "stock": 17.0,
+        "stock": 16.0,
         "quantity": 0
     },
     {
@@ -15892,7 +15892,7 @@
         "product": "TRELIÇA PARA LAJE H8  BR C/ 12MT",
         "brand": "MANETONE",
         "price": 149.0,
-        "stock": 33.0,
+        "stock": 31.0,
         "quantity": 0
     },
     {
@@ -15916,7 +15916,7 @@
         "product": "TRENA 05MX19MM",
         "brand": "SAMAFER",
         "price": 16.5,
-        "stock": 27.0,
+        "stock": 24.0,
         "quantity": 0
     },
     {
@@ -15932,7 +15932,7 @@
         "product": "TRENA 20MX13MM FIBRA",
         "brand": "EDA",
         "price": 29.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -16100,7 +16100,7 @@
         "product": "VARÃO P/CORTINA 1,05X1,18  BANHEIRO",
         "brand": "VAREX",
         "price": 27.9,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -16290,9 +16290,9 @@
     {
         "id": 2036,
         "product": "ACABAMENTO VALVULA BR",
-        "brand": "HIGIBAN",
-        "price": 29.0,
-        "stock": 0.0,
+        "brand": "HIDRA",
+        "price": 55.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -16340,7 +16340,7 @@
         "product": "ADAPTADOR C/ FRANGE 25X3/4",
         "brand": "MULTILIT",
         "price": 12.5,
-        "stock": 46.0,
+        "stock": 43.0,
         "quantity": 0
     },
     {
@@ -16348,7 +16348,7 @@
         "product": "ADAPTADOR C/ FRANJE 50X1.1/2",
         "brand": "KRONA CARDIN",
         "price": 28.5,
-        "stock": 33.0,
+        "stock": 32.0,
         "quantity": 0
     },
     {
@@ -16372,7 +16372,7 @@
         "product": "ADAPTADOR CURTO LR 25X3/4",
         "brand": "MULTILIT",
         "price": 1.0,
-        "stock": 185.0,
+        "stock": 182.0,
         "quantity": 0
     },
     {
@@ -16388,7 +16388,7 @@
         "product": "ADAPTADOR CURTO LR 50X1.1/2\"",
         "brand": "AMANCO",
         "price": 5.5,
-        "stock": 71.0,
+        "stock": 67.0,
         "quantity": 0
     },
     {
@@ -16436,7 +16436,7 @@
         "product": "ADESIVO PVC 017 GR",
         "brand": "AMANCO",
         "price": 2.99,
-        "stock": 32.0,
+        "stock": 26.0,
         "quantity": 0
     },
     {
@@ -16444,7 +16444,7 @@
         "product": "ADESIVO PVC 075 GR",
         "brand": "KRONA",
         "price": 7.9,
-        "stock": 30.0,
+        "stock": 25.0,
         "quantity": 0
     },
     {
@@ -16468,7 +16468,7 @@
         "product": "ANEL BORRACHA 50MM P/ VEDAÇÃO",
         "brand": "HYDRO",
         "price": 0.85,
-        "stock": 66.0,
+        "stock": 65.0,
         "quantity": 0
     },
     {
@@ -16500,7 +16500,7 @@
         "product": "ANEL VEDAÇÃO C/GUIA",
         "brand": "ASTRA",
         "price": 9.99,
-        "stock": 41.0,
+        "stock": 38.0,
         "quantity": 0
     },
     {
@@ -16684,7 +16684,7 @@
         "product": "ASSENTO OVAL BÁSICO BRANCO LIGTH",
         "brand": "MEBUKI",
         "price": 32.9,
-        "stock": 7.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -16692,7 +16692,7 @@
         "product": "ASSENTO OVAL BASICO BRANCO SOFT",
         "brand": "PLASTILIT",
         "price": 32.9,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -16820,7 +16820,7 @@
         "product": "BICO P/ TORNEIRA PVC 3/4X1/2",
         "brand": "FAME",
         "price": 3.5,
-        "stock": 8.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -16836,7 +16836,7 @@
         "product": "BOIA P/ CX D'AGUA 3/4 METAL",
         "brand": "GEMETAIS",
         "price": 19.8,
-        "stock": 15.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -16996,7 +16996,7 @@
         "product": "CAIXA D'AGUA PVC 0310L C/T",
         "brand": "ART CAIXA",
         "price": 198.0,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -17060,7 +17060,7 @@
         "product": "CAIXA SABESP",
         "brand": "PLASTIMAX",
         "price": 159.0,
-        "stock": 9.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -17188,7 +17188,7 @@
         "product": "CAPS ESGOTO D 100MM",
         "brand": "CHIVA",
         "price": 8.99,
-        "stock": 19.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -17212,7 +17212,7 @@
         "product": "CAPS SOLDAVEL 25MM",
         "brand": "AMANCO",
         "price": 1.99,
-        "stock": 84.0,
+        "stock": 80.0,
         "quantity": 0
     },
     {
@@ -17236,7 +17236,7 @@
         "product": "CHAVETA METAL P/REGISTRO CR",
         "brand": "ROMIS",
         "price": 13.9,
-        "stock": 7.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -17340,7 +17340,7 @@
         "product": "DUREPOXI 50G",
         "brand": "ALBA",
         "price": 5.5,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -17404,7 +17404,7 @@
         "product": "ENGATE PVC 40CM",
         "brand": "DURÍN",
         "price": 7.5,
-        "stock": 40.0,
+        "stock": 39.0,
         "quantity": 0
     },
     {
@@ -17420,7 +17420,7 @@
         "product": "ENGATE PVC 60CM",
         "brand": "TIGRE",
         "price": 9.5,
-        "stock": 22.0,
+        "stock": 20.0,
         "quantity": 0
     },
     {
@@ -17428,7 +17428,7 @@
         "product": "ENGATE RÁPIDO 3/4 COMPLETO",
         "brand": "MONTEREY",
         "price": 9.5,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -17554,9 +17554,9 @@
     {
         "id": 2194,
         "product": "FITA VEDA ROSCA 18MMX10M",
-        "brand": "POLYFITA",
+        "brand": "GOL",
         "price": 2.5,
-        "stock": 0.0,
+        "stock": 116.0,
         "quantity": 0
     },
     {
@@ -17564,15 +17564,15 @@
         "product": "FITA VEDA ROSCA 18MMX25M",
         "brand": "TIGRE",
         "price": 13.0,
-        "stock": 27.0,
+        "stock": 26.0,
         "quantity": 0
     },
     {
         "id": 2196,
         "product": "FITA VEDA ROSCA 18MMX25M",
         "brand": "GOL",
-        "price": 3.5,
-        "stock": 13.0,
+        "price": 3.99,
+        "stock": 67.0,
         "quantity": 0
     },
     {
@@ -17612,7 +17612,7 @@
         "product": "GRELHA AÇO CX. SIF. 10CM  RED",
         "brand": "SANYMETAL",
         "price": 6.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -17764,7 +17764,7 @@
         "product": "JOELHO AZUL LR 25X1/2",
         "brand": "DURIN",
         "price": 6.9,
-        "stock": 111.0,
+        "stock": 110.0,
         "quantity": 0
     },
     {
@@ -17796,7 +17796,7 @@
         "product": "JOELHO ESGOTO  40X90°",
         "brand": "MULTILIT",
         "price": 1.5,
-        "stock": 177.0,
+        "stock": 171.0,
         "quantity": 0
     },
     {
@@ -17812,7 +17812,7 @@
         "product": "JOELHO ESGOTO  50X45º",
         "brand": "MULTILIT",
         "price": 3.99,
-        "stock": 83.0,
+        "stock": 82.0,
         "quantity": 0
     },
     {
@@ -17820,7 +17820,7 @@
         "product": "JOELHO ESGOTO  50X90º",
         "brand": "MULTILIT",
         "price": 3.5,
-        "stock": 231.0,
+        "stock": 226.0,
         "quantity": 0
     },
     {
@@ -17836,7 +17836,7 @@
         "product": "JOELHO ESGOTO  75X90º",
         "brand": "MULTILIT",
         "price": 5.99,
-        "stock": 122.0,
+        "stock": 121.0,
         "quantity": 0
     },
     {
@@ -17844,7 +17844,7 @@
         "product": "JOELHO ESGOTO 100X45°",
         "brand": "MULTILIT",
         "price": 9.5,
-        "stock": 80.0,
+        "stock": 79.0,
         "quantity": 0
     },
     {
@@ -17860,7 +17860,7 @@
         "product": "JOELHO ESGOTO 100X90",
         "brand": "MULTILIT",
         "price": 6.99,
-        "stock": 327.0,
+        "stock": 323.0,
         "quantity": 0
     },
     {
@@ -17908,7 +17908,7 @@
         "product": "JOELHO SOLDAVEL LL 25X45°",
         "brand": "MULTILIT",
         "price": 2.8,
-        "stock": 90.0,
+        "stock": 88.0,
         "quantity": 0
     },
     {
@@ -17916,7 +17916,7 @@
         "product": "JOELHO SOLDAVEL LL 25X90°",
         "brand": "MULTILIT",
         "price": 0.9,
-        "stock": 1328.0,
+        "stock": 1308.0,
         "quantity": 0
     },
     {
@@ -17940,7 +17940,7 @@
         "product": "JOELHO SOLDAVEL LL 50X90°",
         "brand": "MULTILIT",
         "price": 5.99,
-        "stock": 155.0,
+        "stock": 152.0,
         "quantity": 0
     },
     {
@@ -18092,7 +18092,7 @@
         "product": "KIT PROLONGADOR DE REGISTRO",
         "brand": "ROMIS",
         "price": 19.8,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -18108,7 +18108,7 @@
         "product": "LAVATORIO PVC 36X28 LV2/SC* BR",
         "brand": "ASTRA",
         "price": 23.5,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -18116,7 +18116,7 @@
         "product": "LAVATORIO PVC 40X27 BRANCO",
         "brand": "DURIN",
         "price": 29.5,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -18164,7 +18164,7 @@
         "product": "LUVA AZUL LR 25X3/4",
         "brand": "AMANCO",
         "price": 6.9,
-        "stock": 67.0,
+        "stock": 66.0,
         "quantity": 0
     },
     {
@@ -18236,7 +18236,7 @@
         "product": "LUVA ESGOTO  50MM",
         "brand": "MULTLIT",
         "price": 2.99,
-        "stock": 82.0,
+        "stock": 79.0,
         "quantity": 0
     },
     {
@@ -18252,7 +18252,7 @@
         "product": "LUVA ESGOTO 100MM",
         "brand": "PLASTIK",
         "price": 6.99,
-        "stock": 83.0,
+        "stock": 81.0,
         "quantity": 0
     },
     {
@@ -18276,7 +18276,7 @@
         "product": "LUVA SOLDAVEL LL 25MM",
         "brand": "MULTILIT",
         "price": 0.9,
-        "stock": 467.0,
+        "stock": 460.0,
         "quantity": 0
     },
     {
@@ -18292,7 +18292,7 @@
         "product": "LUVA SOLDAVEL LL 50MM",
         "brand": "AMANCO",
         "price": 4.99,
-        "stock": 146.0,
+        "stock": 144.0,
         "quantity": 0
     },
     {
@@ -18316,7 +18316,7 @@
         "product": "LUVA SOLDAVEL LR 25X3/4",
         "brand": "MULTILIT",
         "price": 2.5,
-        "stock": 157.0,
+        "stock": 154.0,
         "quantity": 0
     },
     {
@@ -18348,7 +18348,7 @@
         "product": "MANGUEIRA GÁS 1/2 P/M MULTIUSO",
         "brand": "IBIRA",
         "price": 12.0,
-        "stock": 59.85,
+        "stock": 56.85,
         "quantity": 0
     },
     {
@@ -18396,7 +18396,7 @@
         "product": "MANGUEIRA JD 1/2X30M",
         "brand": "MONTEREY",
         "price": 89.0,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -18500,7 +18500,7 @@
         "product": "NIPEL 3/4",
         "brand": "AMANCO",
         "price": 2.5,
-        "stock": 25.0,
+        "stock": 24.0,
         "quantity": 0
     },
     {
@@ -18564,7 +18564,7 @@
         "product": "PARAFUSO BACIA BUCHA 10 PAR LATÃO",
         "brand": "ROMIS",
         "price": 9.9,
-        "stock": 48.0,
+        "stock": 47.0,
         "quantity": 0
     },
     {
@@ -18596,7 +18596,7 @@
         "product": "PLUG PVC 1/2",
         "brand": "AMANCO",
         "price": 1.0,
-        "stock": 82.0,
+        "stock": 80.0,
         "quantity": 0
     },
     {
@@ -18604,7 +18604,7 @@
         "product": "PLUG PVC 3/4",
         "brand": "AMANCO",
         "price": 1.0,
-        "stock": 27.0,
+        "stock": 26.0,
         "quantity": 0
     },
     {
@@ -18724,7 +18724,7 @@
         "product": "RALO SECO 100X38MM R3* BR1 QDR",
         "brand": "ASTRA",
         "price": 8.5,
-        "stock": 14.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -18764,7 +18764,7 @@
         "product": "REDUÇÃO ESG  50X40",
         "brand": "MULTILIT",
         "price": 3.0,
-        "stock": 63.0,
+        "stock": 61.0,
         "quantity": 0
     },
     {
@@ -18788,15 +18788,15 @@
         "product": "REDUÇÃO ESG 100X75MM",
         "brand": "PLASTIC",
         "price": 12.0,
-        "stock": 24.0,
+        "stock": 23.0,
         "quantity": 0
     },
     {
         "id": 2349,
         "product": "REDUÇÃO ESG 150X100MM",
         "brand": "MULTILIT",
-        "price": 34.5,
-        "stock": 1.0,
+        "price": 35.5,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -18852,7 +18852,7 @@
         "product": "REDUÇÃO SOLD. LL 50X25MM",
         "brand": "MULTILIT",
         "price": 5.5,
-        "stock": 41.0,
+        "stock": 39.0,
         "quantity": 0
     },
     {
@@ -18948,7 +18948,7 @@
         "product": "REGISTRO PRESSÃO 1400 3/4 S/ ACAB",
         "brand": "ROMIS",
         "price": 21.5,
-        "stock": 6.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -19068,7 +19068,7 @@
         "product": "REGISTRO PVC 50MM  ESFERA",
         "brand": "VIQUA",
         "price": 28.5,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -19412,7 +19412,7 @@
         "product": "SIFÃO FLEXIVEL DUPLO SANF",
         "brand": "BLUKIT",
         "price": 19.9,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -19428,7 +19428,7 @@
         "product": "SIFÃO SANF UNIVERSAL",
         "brand": "DURIN",
         "price": 7.99,
-        "stock": 96.0,
+        "stock": 93.0,
         "quantity": 0
     },
     {
@@ -19444,7 +19444,7 @@
         "product": "SIFÃO SANF. UNIVERSAL 1,5 METRO",
         "brand": "DURIN",
         "price": 16.99,
-        "stock": 63.0,
+        "stock": 62.0,
         "quantity": 0
     },
     {
@@ -19508,7 +19508,7 @@
         "product": "SUPORTE PVC PORTA GRELHA 100MM RED",
         "brand": "ASTRA",
         "price": 5.99,
-        "stock": 21.0,
+        "stock": 19.0,
         "quantity": 0
     },
     {
@@ -19635,8 +19635,8 @@
         "id": 2454,
         "product": "TANQUE PLASTICO 15L CINZA",
         "brand": "DURIN",
-        "price": 69.99,
-        "stock": 0.0,
+        "price": 89.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -19700,7 +19700,7 @@
         "product": "TE ESGOTO B 50X50MM",
         "brand": "MULTLIT",
         "price": 6.98,
-        "stock": 168.0,
+        "stock": 167.0,
         "quantity": 0
     },
     {
@@ -19708,7 +19708,7 @@
         "product": "TE ESGOTO C 75X50MM",
         "brand": "MULTILIT",
         "price": 14.9,
-        "stock": 23.0,
+        "stock": 22.0,
         "quantity": 0
     },
     {
@@ -19724,7 +19724,7 @@
         "product": "TE ESGOTO E 100X50MM",
         "brand": "MULTILIT",
         "price": 15.99,
-        "stock": 23.0,
+        "stock": 22.0,
         "quantity": 0
     },
     {
@@ -19732,7 +19732,7 @@
         "product": "TE ESGOTO F 100X75MM",
         "brand": "MULTILIT",
         "price": 16.0,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -19788,7 +19788,7 @@
         "product": "TE SOLDAVEL LL 25MM",
         "brand": "AMANCO",
         "price": 1.9,
-        "stock": 338.0,
+        "stock": 334.0,
         "quantity": 0
     },
     {
@@ -19804,7 +19804,7 @@
         "product": "TE SOLDAVEL LL 50X25MM",
         "brand": "MULTILIT",
         "price": 9.99,
-        "stock": 58.0,
+        "stock": 56.0,
         "quantity": 0
     },
     {
@@ -19828,7 +19828,7 @@
         "product": "TE SOLDAVEL LR 25X1/2\" MARRON",
         "brand": "MULTILIT",
         "price": 2.99,
-        "stock": 38.0,
+        "stock": 37.0,
         "quantity": 0
     },
     {
@@ -19876,7 +19876,7 @@
         "product": "TORNEIRA FILTRO PVC AUT MARRON",
         "brand": "GAMA",
         "price": 3.5,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -19908,7 +19908,7 @@
         "product": "TORNEIRA JARDIM 1130 1/2  AM ROMIS",
         "brand": "ROMIS",
         "price": 28.0,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -20004,7 +20004,7 @@
         "product": "TORNEIRA LAVAT 1195 C-33 ROMIS",
         "brand": "ROMIS",
         "price": 65.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -20044,7 +20044,7 @@
         "product": "TORNEIRA LAVAT PVC 1/2 HERC",
         "brand": "HERC",
         "price": 12.99,
-        "stock": 15.0,
+        "stock": 14.0,
         "quantity": 0
     },
     {
@@ -20084,7 +20084,7 @@
         "product": "TORNEIRA PIA 1159 1/2 C-25 BICO AR",
         "brand": "ROMIS",
         "price": 39.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -20172,7 +20172,7 @@
         "product": "TORNEIRA PIA 1178 C-40",
         "brand": "ROMIS",
         "price": 69.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -20212,7 +20212,7 @@
         "product": "TORNEIRA PIA 1180 C-33 B MOVEL MESA",
         "brand": "ROMIS",
         "price": 69.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -20252,7 +20252,7 @@
         "product": "TORNEIRA PIA C/FILTRO ACQUA DUE",
         "brand": "LORENZENTTI",
         "price": 115.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -20260,7 +20260,7 @@
         "product": "TORNEIRA PIA C/FILTRO AQUA BELLA BR",
         "brand": "LORENTETTI",
         "price": 115.0,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -20284,7 +20284,7 @@
         "product": "TORNEIRA PIA PVC 15CM 1/2",
         "brand": "HERC",
         "price": 4.99,
-        "stock": 14.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -20316,7 +20316,7 @@
         "product": "TORNEIRA PIA PVC C-33 COD 01072",
         "brand": "DURIN",
         "price": 29.0,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -20380,7 +20380,7 @@
         "product": "TORNEIRA TANQUE PVC 1/2X3/4 CINZA",
         "brand": "LUCONE",
         "price": 7.0,
-        "stock": 15.0,
+        "stock": 14.0,
         "quantity": 0
     },
     {
@@ -20444,7 +20444,7 @@
         "product": "CANO (TUBO) PVC ESG  40MM P/M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 6.0,
-        "stock": 20.5,
+        "stock": 17.0,
         "quantity": 0
     },
     {
@@ -20468,7 +20468,7 @@
         "product": "CANO (TUBO) PVC ESG  50MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 12.9,
-        "stock": 21.05,
+        "stock": 17.55,
         "quantity": 0
     },
     {
@@ -20500,7 +20500,7 @@
         "product": "CANO (TUBO) PVC ESG 100MM P/M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 9.98,
-        "stock": 32.35,
+        "stock": 29.35,
         "quantity": 0
     },
     {
@@ -20548,7 +20548,7 @@
         "product": "CANO (TUBO) PVC ESG BR  75X6M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 44.9,
-        "stock": 6.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -20564,7 +20564,7 @@
         "product": "CANO (TUBO) PVC ESG BR 100X6M LUMA",
         "brand": "LUMAPLASTIC",
         "price": 45.8,
-        "stock": 10.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -20596,7 +20596,7 @@
         "product": "CANO (TUBO) PVC SOLD 25MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 5.8,
-        "stock": 52.99,
+        "stock": 42.99,
         "quantity": 0
     },
     {
@@ -20612,7 +20612,7 @@
         "product": "CANO (TUBO) PVC SOLD 50MM P/M MULTILIT",
         "brand": "MULTILIT",
         "price": 21.5,
-        "stock": 8.53,
+        "stock": 7.53,
         "quantity": 0
     },
     {
@@ -20628,7 +20628,7 @@
         "product": "CANO (TUBO) PVC SOLD BR 25X6M",
         "brand": "MULTILIT",
         "price": 23.9,
-        "stock": 290.0,
+        "stock": 289.0,
         "quantity": 0
     },
     {
@@ -20644,7 +20644,7 @@
         "product": "CANO (TUBO) PVC SOLD BR 50X6M MULTILIT",
         "brand": "MULTILIT",
         "price": 98.0,
-        "stock": 28.0,
+        "stock": 27.0,
         "quantity": 0
     },
     {
@@ -20660,7 +20660,7 @@
         "product": "UNIÃO INTERNA 0 3/8 DURIN",
         "brand": "DURIN",
         "price": 1.99,
-        "stock": 18.0,
+        "stock": 17.0,
         "quantity": 0
     },
     {
@@ -20668,7 +20668,7 @@
         "product": "UNIÃO INTERNA 1/2",
         "brand": "CIPLA",
         "price": 2.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -20676,7 +20676,7 @@
         "product": "UNIÃO INTERNA 3/4",
         "brand": "DURIN",
         "price": 2.5,
-        "stock": 13.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -20764,7 +20764,7 @@
         "product": "VALVULA LAVAT PVC 00328",
         "brand": "DURIN",
         "price": 6.99,
-        "stock": 34.0,
+        "stock": 33.0,
         "quantity": 0
     },
     {
@@ -20788,7 +20788,7 @@
         "product": "VALVULA PIA 7/8X1\" PVC 00324",
         "brand": "ASTRA",
         "price": 4.5,
-        "stock": 30.0,
+        "stock": 29.0,
         "quantity": 0
     },
     {
@@ -20804,7 +20804,7 @@
         "product": "VALVULA PIA AMERICANA PVC CROMADO",
         "brand": "OVERTIME",
         "price": 12.0,
-        "stock": 11.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -20876,7 +20876,7 @@
         "product": "VEDANTE 3/4 SILICONE",
         "brand": "SEMMARCA",
         "price": 0.5,
-        "stock": 423.0,
+        "stock": 420.0,
         "quantity": 0
     },
     {
@@ -20939,7 +20939,7 @@
         "id": 2617,
         "product": "BACIA SANIT FIORI OVAL CZ CLARO",
         "brand": "FIORI",
-        "price": 149.0,
+        "price": 159.0,
         "stock": 2.0,
         "quantity": 0
     },
@@ -20947,7 +20947,7 @@
         "id": 2618,
         "product": "BACIA SANIT FIORI OVAL CZ ESCURO",
         "brand": "FIORI",
-        "price": 149.0,
+        "price": 159.0,
         "stock": 3.0,
         "quantity": 0
     },
@@ -20955,7 +20955,7 @@
         "id": 2619,
         "product": "BACIA SANIT FIORI OVAL MARFIM",
         "brand": "FIORI",
-        "price": 149.0,
+        "price": 159.0,
         "stock": 2.0,
         "quantity": 0
     },
@@ -20971,8 +20971,8 @@
         "id": 2621,
         "product": "BACIA SANIT OVAL BRANCA",
         "brand": "LORENZETTI",
-        "price": 159.0,
-        "stock": 3.0,
+        "price": 169.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -21524,7 +21524,7 @@
         "product": "MADEIRITE 06MM 1,10X2,20M VERMELHO",
         "brand": "VIROLA",
         "price": 39.0,
-        "stock": 35.0,
+        "stock": 33.0,
         "quantity": 0
     },
     {
@@ -21580,7 +21580,7 @@
         "product": "PONTALETE EUCALIPTO 4,00M",
         "brand": "SEM MARCA",
         "price": 7.9,
-        "stock": 20.0,
+        "stock": 17.0,
         "quantity": 0
     },
     {
@@ -21732,22 +21732,22 @@
         "product": "SARRAFO (TÁBUA) PINUS 05CMX3,00M",
         "brand": "PINUS",
         "price": 4.9,
-        "stock": 13.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
         "id": 2717,
         "product": "SARRAFO (TÁBUA) PINUS 07CMX3,00M",
         "brand": "PINUS",
-        "price": 6.9,
-        "stock": 74.0,
+        "price": 7.9,
+        "stock": 60.0,
         "quantity": 0
     },
     {
         "id": 2718,
         "product": "SARRAFO (TÁBUA) PINUS 10CMX3,00M",
         "brand": "PINUS",
-        "price": 8.9,
+        "price": 9.8,
         "stock": 23.0,
         "quantity": 0
     },
@@ -21755,23 +21755,23 @@
         "id": 2719,
         "product": "SARRAFO (TÁBUA) PINUS 15CMX3,00M",
         "brand": "PINUS",
-        "price": 13.9,
-        "stock": 25.0,
+        "price": 14.9,
+        "stock": 23.0,
         "quantity": 0
     },
     {
         "id": 2720,
         "product": "SARRAFO (TÁBUA) PINUS 20CMX3,00M",
         "brand": "PINUS",
-        "price": 17.9,
-        "stock": 184.0,
+        "price": 19.8,
+        "stock": 180.0,
         "quantity": 0
     },
     {
         "id": 2721,
         "product": "SARRAFO (TÁBUA) PINUS 25CMX3,00M",
         "brand": "PINUS",
-        "price": 19.8,
+        "price": 27.9,
         "stock": 10.0,
         "quantity": 0
     },
@@ -21779,7 +21779,7 @@
         "id": 2722,
         "product": "SARRAFO (TÁBUA) PINUS 30CMX3,00M",
         "brand": "PINUS",
-        "price": 29.8,
+        "price": 35.9,
         "stock": 0.0,
         "quantity": 0
     },
@@ -22091,8 +22091,8 @@
         "id": 2761,
         "product": "ABRAÇADEIRA NYLON 3,6MX200M PC 100PÇ",
         "brand": "BRASFORTE",
-        "price": 19.0,
-        "stock": 2.0,
+        "price": 24.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -22132,7 +22132,7 @@
         "product": "ADESIVO SELANTE PU40 230ML",
         "brand": "PRO",
         "price": 19.99,
-        "stock": 12.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -22268,7 +22268,7 @@
         "product": "AREIA  GRANEL JACAREI",
         "brand": "JACAREI",
         "price": 159.0,
-        "stock": 11.64,
+        "stock": 9.74,
         "quantity": 0
     },
     {
@@ -22284,7 +22284,7 @@
         "product": "AREIA EM SACO (SC 20KG)",
         "brand": "CENTER VALE",
         "price": 4.9,
-        "stock": 67.0,
+        "stock": 55.0,
         "quantity": 0
     },
     {
@@ -22428,7 +22428,7 @@
         "product": "BIANCO 1KG ADESIVO CHAPISCO",
         "brand": "VEDACIT",
         "price": 34.9,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -22443,8 +22443,8 @@
         "id": 2805,
         "product": "TIJOLO BAIANO (BLOCO CERAMICO) 09X19X19",
         "brand": "TERRA BRASIL",
-        "price": 0.95,
-        "stock": 0.0,
+        "price": 0.98,
+        "stock": 1000.0,
         "quantity": 0
     },
     {
@@ -22452,7 +22452,7 @@
         "product": "TIJOLO BAIANO (BLOCO CERAMICO) 11X14X12 MEIO",
         "brand": "TERRA BRASIL",
         "price": 0.95,
-        "stock": 805.0,
+        "stock": 747.0,
         "quantity": 0
     },
     {
@@ -22468,14 +22468,14 @@
         "product": "TIJOLO BAIANO (BLOCO CERAMICO) 11X14X24 ENDO",
         "brand": "ENDO",
         "price": 0.89,
-        "stock": 4420.0,
+        "stock": 2950.0,
         "quantity": 0
     },
     {
         "id": 2809,
         "product": "TIJOLO BAIANO (BLOCO CERAMICO) 14X19X14 MEIO",
         "brand": "TERRA BRASIL",
-        "price": 1.89,
+        "price": 1.98,
         "stock": 212.0,
         "quantity": 0
     },
@@ -22483,8 +22483,8 @@
         "id": 2810,
         "product": "TIJOLO BAIANO (BLOCO CERAMICO) 14X19X29",
         "brand": "TERRA BRASIL",
-        "price": 1.89,
-        "stock": 193.0,
+        "price": 1.98,
+        "stock": 3075.0,
         "quantity": 0
     },
     {
@@ -22507,8 +22507,8 @@
         "id": 2813,
         "product": "BLOCO CONCRETO 14X19X39",
         "brand": "CENTER VALE",
-        "price": 1.79,
-        "stock": 169.0,
+        "price": 1.89,
+        "stock": 249.0,
         "quantity": 0
     },
     {
@@ -22523,8 +22523,8 @@
         "id": 2815,
         "product": "BLOCO CONCRETO 14X19X39 VAZADO 2F",
         "brand": "CENTER VALE",
-        "price": 1.98,
-        "stock": 0.0,
+        "price": 2.29,
+        "stock": 51.0,
         "quantity": 0
     },
     {
@@ -22764,7 +22764,7 @@
         "product": "CANTONEIRA AL L 3/4 PRETA",
         "brand": "VITORIA",
         "price": 16.0,
-        "stock": 15.0,
+        "stock": 13.0,
         "quantity": 0
     },
     {
@@ -23060,7 +23060,7 @@
         "product": "CIMENTO  1KG CZ DIRECIONAL",
         "brand": "DIRECIONAL",
         "price": 1.9,
-        "stock": 17.0,
+        "stock": 16.0,
         "quantity": 0
     },
     {
@@ -23068,7 +23068,7 @@
         "product": "CIMENTO  5KG CZ DIRECIONAL",
         "brand": "DIRECIONAL",
         "price": 6.9,
-        "stock": 11.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -23076,7 +23076,7 @@
         "product": "CIMENTO 10KG CZ",
         "brand": "CV",
         "price": 11.9,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -23092,7 +23092,7 @@
         "product": "CIMENTO CPII 50 KG CSN",
         "brand": "CSN",
         "price": 31.9,
-        "stock": 135.0,
+        "stock": 45.0,
         "quantity": 0
     },
     {
@@ -23100,7 +23100,7 @@
         "product": "CIMENTO CPIII 50 KG CSN",
         "brand": "CSN",
         "price": 29.8,
-        "stock": 83.0,
+        "stock": 40.0,
         "quantity": 0
     },
     {
@@ -23108,7 +23108,7 @@
         "product": "ARGAMASSA (CIMENTOCOLA) 20KG AC I CINZA",
         "brand": "QUARTIZOLIT",
         "price": 15.9,
-        "stock": 39.0,
+        "stock": 33.0,
         "quantity": 0
     },
     {
@@ -23116,7 +23116,7 @@
         "product": "ARGAMASSA (CIMENTOCOLA) 20KG AC I CINZA",
         "brand": "DIRECIONAL",
         "price": 10.9,
-        "stock": 145.0,
+        "stock": 118.0,
         "quantity": 0
     },
     {
@@ -23132,7 +23132,7 @@
         "product": "ARGAMASSA (CIMENTOCOLA) 20KG AC II CINZA",
         "brand": "DIRECIONAL",
         "price": 24.9,
-        "stock": 47.0,
+        "stock": 42.0,
         "quantity": 0
     },
     {
@@ -23164,7 +23164,7 @@
         "product": "COLEIRA ANTI PULGA",
         "brand": "WORLD",
         "price": 22.0,
-        "stock": 7.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -23356,7 +23356,7 @@
         "product": "CUMEEIRA CERÂMICA COLONIAL",
         "brand": "BRUTA",
         "price": 2.9,
-        "stock": 9.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -23412,7 +23412,7 @@
         "product": "DESETUPIDOR TUFÃO 5MTS",
         "brand": "TUFÃO",
         "price": 46.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -23532,7 +23532,7 @@
         "product": "ELETRODO CX 1KL 2,5MM",
         "brand": "ECOFER",
         "price": 21.5,
-        "stock": 9.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -23588,7 +23588,7 @@
         "product": "ESPAÇADOR 1,5 MM P/PISO",
         "brand": "JUNTALIDER",
         "price": 3.5,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -23724,7 +23724,7 @@
         "product": "FITA VEDA ROSCA 18MMX50M",
         "brand": "GOOL",
         "price": 6.0,
-        "stock": 48.0,
+        "stock": 47.0,
         "quantity": 0
     },
     {
@@ -23892,7 +23892,7 @@
         "product": "GESSO LENTO 10 KG",
         "brand": "ARICANDUVA",
         "price": 14.5,
-        "stock": 2.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -23900,7 +23900,7 @@
         "product": "GESSO LENTO 40KG",
         "brand": "ARICANDUVA",
         "price": 29.9,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -24004,7 +24004,7 @@
         "product": "KIT ACESS 5PÇ LÍNEA SLIM BR",
         "brand": "MEBUKI",
         "price": 59.0,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -24036,7 +24036,7 @@
         "product": "KIT VARÃO P/CORTINA 2,50 M BRANCO",
         "brand": "LARANLEIRA",
         "price": 18.9,
-        "stock": 9.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -24420,7 +24420,7 @@
         "product": "LAJOTA ISOPOR 07X33X100",
         "brand": "ISONORTE",
         "price": 8.9,
-        "stock": 19.0,
+        "stock": 15.0,
         "quantity": 0
     },
     {
@@ -24428,7 +24428,7 @@
         "product": "LAJOTA P/ LAJE H 06X30X20",
         "brand": "TERRA BRASIL",
         "price": 1.49,
-        "stock": 405.0,
+        "stock": 3048.0,
         "quantity": 0
     },
     {
@@ -24451,8 +24451,8 @@
         "id": 3056,
         "product": "LIMPA PNEU 500ML",
         "brand": "PROAUTO",
-        "price": 9.99,
-        "stock": 0.0,
+        "price": 12.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -24491,8 +24491,8 @@
         "id": 3061,
         "product": "LINHA PEDREIRO TRANÇADA 50MT",
         "brand": "MONOFIOL",
-        "price": 4.9,
-        "stock": 9.0,
+        "price": 5.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -24540,7 +24540,7 @@
         "product": "LONA PLASTICA PRETA- LP4FF",
         "brand": "CANAL",
         "price": 4.5,
-        "stock": 53.5,
+        "stock": 241.5,
         "quantity": 0
     },
     {
@@ -24572,7 +24572,7 @@
         "product": "LUVA USO MÃO M REFORÇADA VERDE",
         "brand": "SANRO",
         "price": 9.99,
-        "stock": 13.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -24684,7 +24684,7 @@
         "product": "MARCADOR P/PISO COR VERMELHO",
         "brand": "FABER CASTEL",
         "price": 5.5,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -24971,8 +24971,8 @@
         "id": 3121,
         "product": "PEDRA Nº 1/2 A GRANEL",
         "brand": "EMBU",
-        "price": 139.0,
-        "stock": 18.6,
+        "price": 160.95,
+        "stock": 20.6,
         "quantity": 0
     },
     {
@@ -24980,7 +24980,7 @@
         "product": "PEDRA Nº 1/2 SACO 20KG",
         "brand": "CENTER VALE",
         "price": 4.9,
-        "stock": 58.0,
+        "stock": 48.0,
         "quantity": 0
     },
     {
@@ -25076,15 +25076,15 @@
         "product": "PISO A 32X57 (CX 2,20M²) ARABESCO BG",
         "brand": "CERAL",
         "price": 25.99,
-        "stock": 48.4,
+        "stock": 41.8,
         "quantity": 0
     },
     {
         "id": 3135,
         "product": "PISO A 32X57 (CX 2,20M²) AROEIRA MR HD",
         "brand": "LUNA",
-        "price": 25.99,
-        "stock": 13.2,
+        "price": 29.0,
+        "stock": 2.2,
         "quantity": 0
     },
     {
@@ -25363,7 +25363,7 @@
         "id": 3170,
         "product": "PORTA MAD CALHA 60X180 D RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
+        "price": 225.0,
         "stock": 1.0,
         "quantity": 0
     },
@@ -25371,7 +25371,7 @@
         "id": 3171,
         "product": "PORTA MAD CALHA 60X180 E RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
+        "price": 225.0,
         "stock": 1.0,
         "quantity": 0
     },
@@ -25379,7 +25379,7 @@
         "id": 3172,
         "product": "PORTA MAD CALHA 70X210 D RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
+        "price": 235.0,
         "stock": 2.0,
         "quantity": 0
     },
@@ -25387,7 +25387,7 @@
         "id": 3173,
         "product": "PORTA MAD CALHA 70X210 E RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
+        "price": 235.0,
         "stock": 2.0,
         "quantity": 0
     },
@@ -25395,7 +25395,7 @@
         "id": 3174,
         "product": "PORTA MAD CALHA 80X210 D RETA",
         "brand": "AJF",
-        "price": 198.0,
+        "price": 235.0,
         "stock": 0.0,
         "quantity": 0
     },
@@ -25403,7 +25403,7 @@
         "id": 3175,
         "product": "PORTA MAD CALHA 80X210 E RETA",
         "brand": "AJF",
-        "price": 198.0,
+        "price": 235.0,
         "stock": 1.0,
         "quantity": 0
     },
@@ -25411,7 +25411,7 @@
         "id": 3176,
         "product": "PORTA MAD LISA IMBUA  060X210 L D",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 329.0,
+        "price": 349.0,
         "stock": 0.0,
         "quantity": 0
     },
@@ -25419,7 +25419,7 @@
         "id": 3177,
         "product": "PORTA MAD LISA IMBUA  060X210 L E",
         "brand": "DOIS IRMÃOS",
-        "price": 329.0,
+        "price": 349.0,
         "stock": 0.0,
         "quantity": 0
     },
@@ -25427,7 +25427,7 @@
         "id": 3178,
         "product": "PORTA MAD LISA IMBUIA 70X210 D RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 329.0,
+        "price": 349.0,
         "stock": 3.0,
         "quantity": 0
     },
@@ -25435,7 +25435,7 @@
         "id": 3179,
         "product": "PORTA MAD LISA IMBUIA 70X210 E RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 329.0,
+        "price": 349.0,
         "stock": 2.0,
         "quantity": 0
     },
@@ -25443,7 +25443,7 @@
         "id": 3180,
         "product": "PORTA MAD LISA IMBUIA 80X210 D RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 329.0,
+        "price": 349.0,
         "stock": 0.0,
         "quantity": 0
     },
@@ -25451,15 +25451,15 @@
         "id": 3181,
         "product": "PORTA MAD LISA IMBUIA 80X210 E RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 329.0,
-        "stock": 3.0,
+        "price": 349.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
         "id": 3182,
         "product": "PORTA MAD LISA MESCLA 70X210 D RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
+        "price": 239.0,
         "stock": 3.0,
         "quantity": 0
     },
@@ -25467,7 +25467,7 @@
         "id": 3183,
         "product": "PORTA MAD LISA MESCLA 70X210 E RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
+        "price": 239.0,
         "stock": 4.0,
         "quantity": 0
     },
@@ -25475,16 +25475,16 @@
         "id": 3184,
         "product": "PORTA MAD LISA MESCLA 80X210 D RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
-        "stock": 3.0,
+        "price": 239.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
         "id": 3185,
         "product": "PORTA MAD LISA MESCLA 80X210 E RETA",
         "brand": "ESQ 5 IRMÃOS",
-        "price": 198.0,
-        "stock": 3.0,
+        "price": 239.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -25788,7 +25788,7 @@
         "product": "PRIMER MANTA 900ML",
         "brand": "VEDACIT",
         "price": 16.9,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -25828,7 +25828,7 @@
         "product": "PUXADOR BOLINHA CROMADO 328",
         "brand": "ESTRELA DO VALE",
         "price": 6.5,
-        "stock": 12.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -25876,7 +25876,7 @@
         "product": "REJUNTE FLEX 5KG BEGE",
         "brand": "DIRECIONAL",
         "price": 13.99,
-        "stock": 20.0,
+        "stock": 19.0,
         "quantity": 0
     },
     {
@@ -25884,7 +25884,7 @@
         "product": "REJUNTE FLEX 5KG BRANCO",
         "brand": "DIRECIONAL",
         "price": 13.99,
-        "stock": 20.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -25940,7 +25940,7 @@
         "product": "RODIZIO MESA 25KG",
         "brand": "ALIANÇA",
         "price": 7.5,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -25980,7 +25980,7 @@
         "product": "ROLO 23CM ANTIRRESPINGO COD.333",
         "brand": "CASTOR",
         "price": 11.99,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -26404,7 +26404,7 @@
         "product": "SUPORTE TV LCD PLASMA 10''A 105''",
         "brand": "PRIMETCH",
         "price": 28.5,
-        "stock": 3.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -26571,8 +26571,8 @@
         "id": 3321,
         "product": "TANQUE PLASTICO 15L BRANCO",
         "brand": "DURIN",
-        "price": 79.0,
-        "stock": 4.0,
+        "price": 89.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -26684,7 +26684,7 @@
         "product": "TELHA CERAMICA PORTUGUESA",
         "brand": "BRUTA",
         "price": 2.9,
-        "stock": 100.0,
+        "stock": 85.0,
         "quantity": 0
     },
     {
@@ -26748,7 +26748,7 @@
         "product": "TIJOLINHO COMUM 5X8X19 CM",
         "brand": "LAMBARI",
         "price": 0.6,
-        "stock": 1618.0,
+        "stock": 1518.0,
         "quantity": 0
     },
     {
@@ -27772,7 +27772,7 @@
         "product": "ISQUEIRO BIC MAXI",
         "brand": "BIC",
         "price": 5.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -27892,7 +27892,7 @@
         "product": "PIA MARM SINT 1,00X50 PRETO",
         "brand": "AJR",
         "price": 135.0,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -28251,7 +28251,7 @@
         "id": 3531,
         "product": "PISO A 32X57 (CX 2,2M²) BG CRISTAL HD",
         "brand": "CERAL",
-        "price": 28.9,
+        "price": 29.0,
         "stock": 44.0,
         "quantity": 0
     },
@@ -28371,7 +28371,7 @@
         "id": 3546,
         "product": "PISO A 51X51 (CX 2,65M²) PINUS HD",
         "brand": "CERAL",
-        "price": 24.9,
+        "price": 28.0,
         "stock": 47.7,
         "quantity": 0
     },
@@ -28379,7 +28379,7 @@
         "id": 3547,
         "product": "PISO A 51X51 (CX2,65M²) TECA HD",
         "brand": "CERAL",
-        "price": 20.79,
+        "price": 26.0,
         "stock": 7.69,
         "quantity": 0
     },
@@ -28756,7 +28756,7 @@
         "product": "REJUNTE FLEX 5KG PRETO",
         "brand": "DIRECIONAL",
         "price": 13.99,
-        "stock": 17.0,
+        "stock": 16.0,
         "quantity": 0
     },
     {
@@ -28788,7 +28788,7 @@
         "product": "AGUARRAS 450ML",
         "brand": "NATRIELLI",
         "price": 10.99,
-        "stock": 11.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -28844,7 +28844,7 @@
         "product": "BROXA REDONDA REF. 915",
         "brand": "CONDOR",
         "price": 5.0,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -28884,7 +28884,7 @@
         "product": "CAL PINTURA 08 KG QUALICAL",
         "brand": "QUALICAL",
         "price": 11.9,
-        "stock": 76.0,
+        "stock": 71.0,
         "quantity": 0
     },
     {
@@ -28892,7 +28892,7 @@
         "product": "CATALISADOR IBERE",
         "brand": "IBERE",
         "price": 2.0,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -28908,7 +28908,7 @@
         "product": "CIMENTO  1KG BRANCO",
         "brand": "DIRECIONAL",
         "price": 3.99,
-        "stock": 17.0,
+        "stock": 16.0,
         "quantity": 0
     },
     {
@@ -28964,7 +28964,7 @@
         "product": "CORANTE LIQ 50ML  AZUL  XADREZ",
         "brand": "XADREZ",
         "price": 4.5,
-        "stock": 25.0,
+        "stock": 22.0,
         "quantity": 0
     },
     {
@@ -28980,7 +28980,7 @@
         "product": "CORANTE LIQ 50ML AMARELO XADREZ",
         "brand": "XADREZ",
         "price": 4.5,
-        "stock": 22.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -28988,7 +28988,7 @@
         "product": "CORANTE LIQ 50ML MARROM XADREZ",
         "brand": "XADREZ",
         "price": 4.5,
-        "stock": 11.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -29004,7 +29004,7 @@
         "product": "CORANTE LIQ 50ML PRETO XADREZ",
         "brand": "XADREZ",
         "price": 4.48,
-        "stock": 23.0,
+        "stock": 20.0,
         "quantity": 0
     },
     {
@@ -29020,7 +29020,7 @@
         "product": "CORANTE LIQ 50ML VERMELHO XADREZ",
         "brand": "XADREZ",
         "price": 4.48,
-        "stock": 32.0,
+        "stock": 30.0,
         "quantity": 0
     },
     {
@@ -29028,7 +29028,7 @@
         "product": "CORANTE LIQ 50ML VIOLETA XADREZ",
         "brand": "XADREZ",
         "price": 4.5,
-        "stock": 33.0,
+        "stock": 32.0,
         "quantity": 0
     },
     {
@@ -29092,7 +29092,7 @@
         "product": "ESMALTE SINTÉTICO 3,6L BRANCO",
         "brand": "DACAR",
         "price": 89.0,
-        "stock": 1.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -29188,7 +29188,7 @@
         "product": "ESMALTE SINTÉTICO 900ML BRANCO",
         "brand": "DACAR",
         "price": 24.9,
-        "stock": 6.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -29196,7 +29196,7 @@
         "product": "ESMALTE SINTETICO 900ML CINZA MEDIO",
         "brand": "EUCALAR",
         "price": 24.9,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
@@ -29244,7 +29244,7 @@
         "product": "ESMALTE SINTETICO 900ML PRETO",
         "brand": "EUCALAR",
         "price": 24.9,
-        "stock": 1.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -29252,7 +29252,7 @@
         "product": "ESMALTE SINTETICO 900ML PRETO FOSCO",
         "brand": "MONTECOR",
         "price": 26.9,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -29340,7 +29340,7 @@
         "product": "ESPUMA EXPANSIVA 500ML",
         "brand": "PRO FOAM",
         "price": 23.5,
-        "stock": 11.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -29356,7 +29356,7 @@
         "product": "FITA CREP 25MMX50M",
         "brand": "NATRIELLI",
         "price": 6.0,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -29364,7 +29364,7 @@
         "product": "FITA CREP 50MMX50M",
         "brand": "NATRIELLI",
         "price": 13.9,
-        "stock": 8.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -29412,7 +29412,7 @@
         "product": "GESSO LENTO 01 KG DIRECIONAL",
         "brand": "DIRECIONAL",
         "price": 2.99,
-        "stock": 4.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -29436,7 +29436,7 @@
         "product": "LIXA D'AGUA  1200 NORTON",
         "brand": "NORTON",
         "price": 6.0,
-        "stock": 10.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -29540,7 +29540,7 @@
         "product": "LIXA FERRO 036",
         "brand": "NORTON",
         "price": 3.99,
-        "stock": 26.0,
+        "stock": 51.0,
         "quantity": 0
     },
     {
@@ -29548,7 +29548,7 @@
         "product": "LIXA FERRO 080",
         "brand": "NORTON",
         "price": 3.0,
-        "stock": 21.0,
+        "stock": 19.0,
         "quantity": 0
     },
     {
@@ -29556,7 +29556,7 @@
         "product": "LIXA FERRO 100",
         "brand": "NORTON",
         "price": 2.99,
-        "stock": 27.0,
+        "stock": 26.0,
         "quantity": 0
     },
     {
@@ -29564,7 +29564,7 @@
         "product": "LIXA FERRO 120",
         "brand": "NORTON",
         "price": 3.0,
-        "stock": 20.0,
+        "stock": 19.0,
         "quantity": 0
     },
     {
@@ -29572,7 +29572,7 @@
         "product": "LIXA FERRO 220",
         "brand": "NORTON",
         "price": 3.0,
-        "stock": 34.0,
+        "stock": 30.0,
         "quantity": 0
     },
     {
@@ -29580,7 +29580,7 @@
         "product": "LIXA MADEIRA 150",
         "brand": "TATU",
         "price": 1.5,
-        "stock": 69.0,
+        "stock": 64.0,
         "quantity": 0
     },
     {
@@ -29604,7 +29604,7 @@
         "product": "LIXA MASSA 080",
         "brand": "NORTON",
         "price": 1.99,
-        "stock": 77.0,
+        "stock": 67.0,
         "quantity": 0
     },
     {
@@ -29620,7 +29620,7 @@
         "product": "LIXA MASSA 120",
         "brand": "NORTON",
         "price": 1.5,
-        "stock": 73.0,
+        "stock": 72.0,
         "quantity": 0
     },
     {
@@ -29636,7 +29636,7 @@
         "product": "LIXA MASSA 180",
         "brand": "NORTON",
         "price": 1.5,
-        "stock": 104.0,
+        "stock": 102.0,
         "quantity": 0
     },
     {
@@ -29732,7 +29732,7 @@
         "product": "MASSA CORRIDA PVA 25KG BARR.",
         "brand": "ALVONIL",
         "price": 48.9,
-        "stock": 11.0,
+        "stock": 8.0,
         "quantity": 0
     },
     {
@@ -29748,7 +29748,7 @@
         "product": "MASSA CORRIDA PVA 3,6L",
         "brand": "ALVONIL",
         "price": 21.9,
-        "stock": 8.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -29764,7 +29764,7 @@
         "product": "MASSA PLÁSTICA 400G CINZA",
         "brand": "IBERÊ",
         "price": 9.99,
-        "stock": 18.0,
+        "stock": 17.0,
         "quantity": 0
     },
     {
@@ -29844,7 +29844,7 @@
         "product": "PINCEL TRINCHA 700- 1/2\"",
         "brand": "CONDOR",
         "price": 1.8,
-        "stock": 16.0,
+        "stock": 15.0,
         "quantity": 0
     },
     {
@@ -29868,7 +29868,7 @@
         "product": "PINCEL TRINCHA 700-1.1/2",
         "brand": "CONDOR",
         "price": 3.5,
-        "stock": 21.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -29876,7 +29876,7 @@
         "product": "PINCEL TRINCHA 700-2\"",
         "brand": "CONDOR",
         "price": 4.5,
-        "stock": 22.0,
+        "stock": 20.0,
         "quantity": 0
     },
     {
@@ -29884,7 +29884,7 @@
         "product": "PINCEL TRINCHA 700-2.1/2",
         "brand": "CONDOR",
         "price": 5.5,
-        "stock": 10.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -29908,7 +29908,7 @@
         "product": "PINCEL TRINCHA 714- 3/4\"",
         "brand": "CONDOR",
         "price": 2.5,
-        "stock": 19.0,
+        "stock": 18.0,
         "quantity": 0
     },
     {
@@ -29924,7 +29924,7 @@
         "product": "PINCEL TRINCHA 714-1.1/2\"",
         "brand": "CONDOR",
         "price": 4.9,
-        "stock": 4.0,
+        "stock": 28.0,
         "quantity": 0
     },
     {
@@ -29932,7 +29932,7 @@
         "product": "PINCEL TRINCHA 714-2\"",
         "brand": "CONDOR",
         "price": 5.99,
-        "stock": 18.0,
+        "stock": 16.0,
         "quantity": 0
     },
     {
@@ -29988,7 +29988,7 @@
         "product": "REJUNTE FLEX 1KG BRANCO",
         "brand": "DIRECIONAL",
         "price": 3.5,
-        "stock": 33.0,
+        "stock": 31.0,
         "quantity": 0
     },
     {
@@ -30100,7 +30100,7 @@
         "product": "ROLO 05CM ESPUMA COD 06342",
         "brand": "DURIN",
         "price": 4.99,
-        "stock": 2.0,
+        "stock": 21.0,
         "quantity": 0
     },
     {
@@ -30108,7 +30108,7 @@
         "product": "ROLO 05CM LÃ COMPEL",
         "brand": "COMPEL",
         "price": 3.5,
-        "stock": 40.0,
+        "stock": 39.0,
         "quantity": 0
     },
     {
@@ -30132,7 +30132,7 @@
         "product": "ROLO 09CM ESPUMA ATLAS",
         "brand": "ATLAS",
         "price": 5.99,
-        "stock": 7.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -30188,7 +30188,7 @@
         "product": "ROLO 15CM/975 ESPUMA",
         "brand": "CONDOR",
         "price": 7.99,
-        "stock": 10.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -30220,7 +30220,7 @@
         "product": "ROLO 23CM 953 LÃ CARNEIRO S/S",
         "brand": "CONDOR",
         "price": 24.5,
-        "stock": 6.0,
+        "stock": 12.0,
         "quantity": 0
     },
     {
@@ -30228,7 +30228,7 @@
         "product": "ROLO 23CM 959/23 ZERO GOTA C/S",
         "brand": "TIGRE",
         "price": 11.9,
-        "stock": 7.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -30244,7 +30244,7 @@
         "product": "ROLO 23CM LÂ POLIESTER C/S COD.334",
         "brand": "CASTOR",
         "price": 22.9,
-        "stock": 6.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -30260,7 +30260,7 @@
         "product": "ROLO 23CM/ HOBBY CÓD 135",
         "brand": "CASTOR",
         "price": 19.99,
-        "stock": 0.0,
+        "stock": 10.0,
         "quantity": 0
     },
     {
@@ -30324,7 +30324,7 @@
         "product": "ROLO KIT ESPUMA 5PÇ REF 0.918",
         "brand": "COMPEL",
         "price": 32.5,
-        "stock": 4.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -30372,7 +30372,7 @@
         "product": "SELADORA 900ML MADEIRA",
         "brand": "EUCATEX",
         "price": 32.0,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -30412,7 +30412,7 @@
         "product": "THINNER 8137 900ML",
         "brand": "NATRIELLI",
         "price": 17.99,
-        "stock": 12.0,
+        "stock": 11.0,
         "quantity": 0
     },
     {
@@ -30748,7 +30748,7 @@
         "product": "TINTA LATEX PVA 18L BRANCA",
         "brand": "ALVOTEX",
         "price": 65.0,
-        "stock": 10.0,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -30860,7 +30860,7 @@
         "product": "TINTA SPRAY 300ML  BRANCO  FOSCO",
         "brand": "COLORART",
         "price": 16.99,
-        "stock": 6.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -30876,7 +30876,7 @@
         "product": "TINTA SPRAY 300ML  BRANCO BRILHO",
         "brand": "X ROW",
         "price": 16.99,
-        "stock": 5.0,
+        "stock": 4.0,
         "quantity": 0
     },
     {
@@ -30908,7 +30908,7 @@
         "product": "TINTA SPRAY 300ML OURO",
         "brand": "COLORART",
         "price": 24.9,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -30916,7 +30916,7 @@
         "product": "TINTA SPRAY 300ML PRETO",
         "brand": "COLORART",
         "price": 16.99,
-        "stock": 8.0,
+        "stock": 6.0,
         "quantity": 0
     },
     {
@@ -30924,7 +30924,7 @@
         "product": "TINTA SPRAY 300ML PRETO FOSCO",
         "brand": "COLORGIN",
         "price": 16.99,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -30964,7 +30964,7 @@
         "product": "TINTA SPRAY 300ML VERNIZ ACRILICO",
         "brand": "COLOARTE",
         "price": 16.99,
-        "stock": 3.0,
+        "stock": 2.0,
         "quantity": 0
     },
     {
@@ -31052,7 +31052,7 @@
         "product": "VERNIZ SINTETICO 900ML IMBUIA",
         "brand": "EUCATEX",
         "price": 29.5,
-        "stock": 7.0,
+        "stock": 5.0,
         "quantity": 0
     },
     {
@@ -31068,7 +31068,7 @@
         "product": "ABRAÇADEIRA NYLON UN 3,6MMX200M",
         "brand": "BRASFORT",
         "price": 0.5,
-        "stock": 0.0,
+        "stock": 82.0,
         "quantity": 0
     },
     {
@@ -31076,7 +31076,7 @@
         "product": "ÁCIDO SANLIMP 1LITRO",
         "brand": "SANLIMP",
         "price": 9.9,
-        "stock": 25.0,
+        "stock": 23.0,
         "quantity": 0
     },
     {
@@ -31492,7 +31492,7 @@
         "product": "ESPONJA AÇO INOX",
         "brand": "FLASH LIMP",
         "price": 2.8,
-        "stock": 1.0,
+        "stock": 0.0,
         "quantity": 0
     },
     {
@@ -31563,8 +31563,8 @@
         "id": 3945,
         "product": "FITILHO PLASTICO PP",
         "brand": "SEM MARCA",
-        "price": 12.5,
-        "stock": 2.0,
+        "price": 13.5,
+        "stock": 7.0,
         "quantity": 0
     },
     {
@@ -31660,7 +31660,7 @@
         "product": "GRAXA NOBRE 95G",
         "brand": "NOBRE",
         "price": 4.99,
-        "stock": 10.0,
+        "stock": 9.0,
         "quantity": 0
     },
     {
@@ -31900,7 +31900,7 @@
         "product": "PILHA AAA-2 ALCALINA PALITO",
         "brand": "PANASONIC",
         "price": 9.9,
-        "stock": 4.0,
+        "stock": 3.0,
         "quantity": 0
     },
     {
@@ -32116,7 +32116,7 @@
         "product": "SHAMPOO ANTI PULGA 500ML",
         "brand": "COLLIE",
         "price": 17.99,
-        "stock": 2.0,
+        "stock": 1.0,
         "quantity": 0
     },
     {
